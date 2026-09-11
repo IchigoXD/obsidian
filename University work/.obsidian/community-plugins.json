@@ -1,7 +1,6 @@
 [
   "obsidian-math-plus",
-  "obsidian-git",
   "realclaudian",
-  "github-sync",
-  "highlightr-plugin"
+  "highlightr-plugin",
+  "obsidian-git"
 ]

@@ -226,7 +226,7 @@
             }
           },
           {
-            "id": "adaffa3697891beb",
+            "id": "e0254b771cc711f0",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -236,7 +236,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -258,7 +258,7 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "4b8660623207a1cc",
+  "active": "2c3b03ab19809535",
   "lastOpenFiles": [
     "Untitled.canvas",
     "Nomes/Dile Birthday Plan.md",
