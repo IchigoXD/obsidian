@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1789093408236-6oxsllu5g",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1789093408283-dndftzf",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1789093408234-uib0iqy",
+      "timestamp": 1789093408234,
+      "rawDisplayText": "update with this quaction",
+      "canonicalText": "update with this quaction",
+      "context": {
+        "linkedContent": {
+          "path": "I fell love with the studies again.md"
+        },
+        "editorSelection": {
+          "notePath": "I fell love with the studies again.md",
+          "mode": "selection",
+          "selectedText": "What are the thing that I can to win a heart of a girl are there things that I have to furcus on answer me",
+          "lineCount": 1,
+          "startLine": 3
+        }
+      },
+      "images": [],
+      "contentDigest": "333de2caf2dfb4b496875f2ff2219aa0ddec7194927771eb7490a0b1fdecfd07",
+      "providerAssistantMessageId": "cdffde89"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1789093698642-mjfqibv",
+      "userTurnOrdinal": 2,
+      "state": "accepted",
+      "localMessageId": "msg-1789093698637-v9pxqvm",
+      "timestamp": 1789093698637,
+      "rawDisplayText": "can u smplify this with highlited texgt",
+      "canonicalText": "can u smplify this with highlited texgt",
+      "images": [],
+      "contentDigest": "48ec918fa3b4c8472d1bc23133dc8a5b127a071800a3b093e5febac1393f6d05",
+      "providerAssistantMessageId": "8fc02dcd"
+    }
+  ]
+}

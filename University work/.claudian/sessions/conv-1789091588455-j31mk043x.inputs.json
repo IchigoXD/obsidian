@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1789091588455-j31mk043x",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1789091588544-9etzia6",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1789091588451-xkqr7zq",
+      "timestamp": 1789091588451,
+      "rawDisplayText": "can u answer these question on the image",
+      "canonicalText": "can u answer these question on the image",
+      "context": {
+        "linkedContent": {
+          "path": "PHY1203/Tute 02.md"
+        },
+        "editorSelection": {
+          "notePath": "PHY1203/Tute 02.md",
+          "mode": "selection",
+          "selectedText": "(6), (11), (12) and (13).",
+          "lineCount": 1,
+          "startLine": 12
+        }
+      },
+      "images": [],
+      "contentDigest": "4079d2002ac41acc962768911fd714d2295c5e04bc9fb5db6a9e699dacd2ac48",
+      "providerAssistantMessageId": "e40911d8"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1789091644365-wap45lw",
+      "userTurnOrdinal": 2,
+      "state": "accepted",
+      "localMessageId": "msg-1789091644357-0cwpdv3",
+      "timestamp": 1789091644357,
+      "rawDisplayText": "update my file",
+      "canonicalText": "update my file",
+      "context": {
+        "editorSelection": {
+          "notePath": "PHY1203/Tute 02.md",
+          "mode": "selection",
+          "selectedText": "(6), (11), (12) and (13).",
+          "lineCount": 1,
+          "startLine": 12
+        }
+      },
+      "images": [],
+      "contentDigest": "10fda1802926f1cf57499660a0cb192541879f9fb87de22997c0cf5c58bdecdb",
+      "providerAssistantMessageId": "d0eaec17"
+    }
+  ]
+}

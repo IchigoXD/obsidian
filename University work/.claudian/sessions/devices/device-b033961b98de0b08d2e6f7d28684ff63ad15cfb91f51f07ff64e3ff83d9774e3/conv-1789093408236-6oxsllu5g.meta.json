@@ -1,0 +1,25 @@
+{
+  "id": "conv-1789093408236-6oxsllu5g",
+  "providerId": "pi",
+  "title": "Update with new question",
+  "titleGenerationStatus": "success",
+  "createdAt": 1789093408242,
+  "lastActivityAt": 1789093723362,
+  "sessionId": "01a08e46-ef59-759e-8d68-4174d064f305",
+  "selectedModel": "pi:antigravity/gemini-3.8-flash",
+  "providerState": {
+    "sessionFile": "C:\\Users\\ichi\\.pi\\agent\\sessions\\--C--Users-ichi-Documents-University Work-University work--\\2026-09-11T02-23-28-602Z_01a08e46-ef59-759e-8d68-4174d064f305.jsonl",
+    "sessionId": "01a08e46-ef59-759e-8d68-4174d064f305"
+  },
+  "linkedContentPath": "Nomes/I fell love with the studies again.md",
+  "usage": {
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextTokens": 23856,
+    "contextWindow": 1048576,
+    "contextWindowIsAuthoritative": true,
+    "inputTokens": 23856,
+    "model": "pi:antigravity/gemini-3.8-flash",
+    "percentage": 2
+  }
+}

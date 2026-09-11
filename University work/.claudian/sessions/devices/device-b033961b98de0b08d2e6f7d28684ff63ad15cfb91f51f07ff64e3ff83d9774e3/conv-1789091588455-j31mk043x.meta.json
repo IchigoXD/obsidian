@@ -1,0 +1,25 @@
+{
+  "id": "conv-1789091588455-j31mk043x",
+  "providerId": "pi",
+  "title": "Answer questions from image",
+  "titleGenerationStatus": "success",
+  "createdAt": 1789091588468,
+  "lastActivityAt": 1789091660945,
+  "sessionId": "01a08e2b-2af0-73a2-8a1f-12cf9596a118",
+  "selectedModel": "pi:antigravity/gemini-3.8-flash",
+  "providerState": {
+    "sessionFile": "C:\\Users\\ichi\\.pi\\agent\\sessions\\--C--Users-ichi-Documents-University Work-University work--\\2026-09-11T01-53-08-848Z_01a08e2b-2af0-73a2-8a1f-12cf9596a118.jsonl",
+    "sessionId": "01a08e2b-2af0-73a2-8a1f-12cf9596a118"
+  },
+  "linkedContentPath": "PHY1203/Tute 02.md",
+  "usage": {
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextTokens": 30010,
+    "contextWindow": 1048576,
+    "contextWindowIsAuthoritative": true,
+    "inputTokens": 30010,
+    "model": "pi:antigravity/gemini-3.8-flash",
+    "percentage": 3
+  }
+}
