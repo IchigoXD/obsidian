@@ -1,0 +1,25 @@
+{
+  "id": "conv-1789090863110-4vbeztx2k",
+  "providerId": "pi",
+  "title": "Absolutely",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1789090863128,
+  "lastActivityAt": 1789090913466,
+  "sessionId": "01a08e20-19c6-72f2-ab39-01fbb5e14566",
+  "selectedModel": "pi:antigravity/gemini-3.8-flash",
+  "providerState": {
+    "sessionFile": "C:\\Users\\ichi\\.pi\\agent\\sessions\\--C--Users-ichi-Documents-University Work-University work--\\2026-09-11T01-41-03-559Z_01a08e20-19c6-72f2-ab39-01fbb5e14566.jsonl",
+    "sessionId": "01a08e20-19c6-72f2-ab39-01fbb5e14566"
+  },
+  "linkedContentPath": "Nomes/Dile Birthday Plan.md",
+  "usage": {
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextTokens": 29237,
+    "contextWindow": 1048576,
+    "contextWindowIsAuthoritative": true,
+    "inputTokens": 29237,
+    "model": "pi:antigravity/gemini-3.8-flash",
+    "percentage": 3
+  }
+}

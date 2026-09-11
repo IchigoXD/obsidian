@@ -1,0 +1,237 @@
+{
+  "model": "",
+  "customModel": "",
+  "reasoningEffort": "",
+  "sandboxMode": "full-agent",
+  "acknowledgedToolRisk": true,
+  "availableModels": [
+    {
+      "slug": "antigravity/gemini-3.8-flash",
+      "provider": "antigravity",
+      "id": "gemini-3.8-flash",
+      "displayName": "Gemini 3.8 Flash (Antigravity)",
+      "contextWindow": 1048576,
+      "maxOutputTokens": 65536,
+      "defaultReasoningLevel": "medium",
+      "supportedReasoningLevels": [
+        "low",
+        "medium",
+        "high"
+      ],
+      "supportsImages": true,
+      "reasoning": true,
+      "thinkingLevelMap": {
+        "off": null,
+        "minimal": null,
+        "low": "low",
+        "medium": "medium",
+        "high": "high",
+        "xhigh": null,
+        "max": null
+      }
+    },
+    {
+      "slug": "antigravity/gemini-3.7-flash",
+      "provider": "antigravity",
+      "id": "gemini-3.7-flash",
+      "displayName": "Gemini 3.7 Flash (Antigravity)",
+      "contextWindow": 1048576,
+      "maxOutputTokens": 65536,
+      "defaultReasoningLevel": "medium",
+      "supportedReasoningLevels": [
+        "low",
+        "medium",
+        "high"
+      ],
+      "supportsImages": true,
+      "reasoning": true,
+      "thinkingLevelMap": {
+        "off": null,
+        "minimal": null,
+        "low": "low",
+        "medium": "medium",
+        "high": "high",
+        "xhigh": null,
+        "max": null
+      }
+    },
+    {
+      "slug": "antigravity/gemini-3.6-flash",
+      "provider": "antigravity",
+      "id": "gemini-3.6-flash",
+      "displayName": "Gemini 3.6 Flash (Antigravity)",
+      "contextWindow": 1048576,
+      "maxOutputTokens": 65536,
+      "defaultReasoningLevel": "medium",
+      "supportedReasoningLevels": [
+        "low",
+        "medium",
+        "high"
+      ],
+      "supportsImages": true,
+      "reasoning": true,
+      "thinkingLevelMap": {
+        "off": null,
+        "minimal": null,
+        "low": "low",
+        "medium": "medium",
+        "high": "high",
+        "xhigh": null,
+        "max": null
+      }
+    },
+    {
+      "slug": "antigravity/claude-opus-4-6",
+      "provider": "antigravity",
+      "id": "claude-opus-4-6",
+      "displayName": "Claude Opus 4.6 (Antigravity)",
+      "contextWindow": 250000,
+      "maxOutputTokens": 64000,
+      "defaultReasoningLevel": "high",
+      "supportedReasoningLevels": [
+        "high"
+      ],
+      "supportsImages": true,
+      "reasoning": true,
+      "thinkingLevelMap": {
+        "off": null,
+        "minimal": null,
+        "low": null,
+        "medium": null,
+        "high": "high",
+        "xhigh": null,
+        "max": null
+      }
+    },
+    {
+      "slug": "antigravity/claude-sonnet-4-6",
+      "provider": "antigravity",
+      "id": "claude-sonnet-4-6",
+      "displayName": "Claude Sonnet 4.6 (Antigravity)",
+      "contextWindow": 200000,
+      "maxOutputTokens": 64000,
+      "defaultReasoningLevel": "high",
+      "supportedReasoningLevels": [
+        "high"
+      ],
+      "supportsImages": true,
+      "reasoning": true,
+      "thinkingLevelMap": {
+        "off": null,
+        "minimal": null,
+        "low": null,
+        "medium": null,
+        "high": "high",
+        "xhigh": null,
+        "max": null
+      }
+    },
+    {
+      "slug": "antigravity/gemini-3.1-pro",
+      "provider": "antigravity",
+      "id": "gemini-3.1-pro",
+      "displayName": "Gemini 3.1 Pro (Antigravity)",
+      "contextWindow": 1048576,
+      "maxOutputTokens": 65535,
+      "defaultReasoningLevel": "low",
+      "supportedReasoningLevels": [
+        "low",
+        "high"
+      ],
+      "supportsImages": true,
+      "reasoning": true,
+      "thinkingLevelMap": {
+        "off": null,
+        "minimal": null,
+        "low": "low",
+        "medium": null,
+        "high": "high",
+        "xhigh": null,
+        "max": null
+      }
+    },
+    {
+      "slug": "antigravity/gemini-3.5-flash",
+      "provider": "antigravity",
+      "id": "gemini-3.5-flash",
+      "displayName": "Gemini 3.5 Flash (Antigravity)",
+      "contextWindow": 1048576,
+      "maxOutputTokens": 65536,
+      "defaultReasoningLevel": "medium",
+      "supportedReasoningLevels": [
+        "low",
+        "medium",
+        "high"
+      ],
+      "supportsImages": true,
+      "reasoning": true,
+      "thinkingLevelMap": {
+        "off": null,
+        "minimal": null,
+        "low": "low",
+        "medium": "medium",
+        "high": "high",
+        "xhigh": null,
+        "max": null
+      }
+    },
+    {
+      "slug": "antigravity/gpt-oss-120b",
+      "provider": "antigravity",
+      "id": "gpt-oss-120b",
+      "displayName": "GPT-OSS 120B (Antigravity)",
+      "contextWindow": 131072,
+      "maxOutputTokens": 32768,
+      "defaultReasoningLevel": "medium",
+      "supportedReasoningLevels": [
+        "medium"
+      ],
+      "supportsImages": false,
+      "reasoning": true,
+      "thinkingLevelMap": {
+        "off": null,
+        "minimal": null,
+        "low": null,
+        "medium": "medium",
+        "high": null,
+        "xhigh": null,
+        "max": null
+      }
+    }
+  ],
+  "dryRun": false,
+  "ignoredFolders": [
+    ".obsidian",
+    ".git",
+    "node_modules",
+    "Templates"
+  ],
+  "customInstructions": "",
+  "piExecutablePath": "",
+  "includeDefaultSkills": true,
+  "additionalSkillFolders": [],
+  "effectiveModel": "antigravity/gemini-3.8-flash",
+  "effectiveReasoning": "medium",
+  "dismissedPiSetup": false,
+  "desktopNotifications": true,
+  "chatHistory": {
+    "currentThreadId": "thread-1789089616601-ta2y675b",
+    "threads": [
+      {
+        "id": "thread-1789089616601-ta2y675b",
+        "title": "New chat",
+        "messages": [],
+        "createdAt": 1789089616601,
+        "updatedAt": 1789089616601,
+        "archived": false,
+        "favorite": false
+      }
+    ]
+  },
+  "localPromptQueue": [],
+  "localPromptSteering": [],
+  "annotationData": {
+    "schemaVersion": 1,
+    "annotations": {}
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "conv-1789090619622-l7yzld37n",
+  "providerId": "pi",
+  "title": "can u write this better",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1789090619640,
+  "lastActivityAt": 1789090669900,
+  "sessionId": "01a08e1c-627e-71a5-b123-2a9744ad3b60",
+  "selectedModel": "pi:antigravity/gemini-3.8-flash",
+  "providerState": {
+    "sessionFile": "C:\\Users\\ichi\\.pi\\agent\\sessions\\--C--Users-ichi-Documents-University Work-University work--\\2026-09-11T01-37-00-030Z_01a08e1c-627e-71a5-b123-2a9744ad3b60.jsonl",
+    "sessionId": "01a08e1c-627e-71a5-b123-2a9744ad3b60"
+  },
+  "linkedContentPath": "Nomes/Therushis's Sudden Reply.md",
+  "usage": {
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextTokens": 19794,
+    "contextWindow": 1048576,
+    "contextWindowIsAuthoritative": true,
+    "inputTokens": 19794,
+    "model": "pi:antigravity/gemini-3.8-flash",
+    "percentage": 2
+  }
+}

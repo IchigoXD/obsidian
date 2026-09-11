@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1789090619622-l7yzld37n",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1789090619708-en64qyo",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1789090619615-ahd5a2y",
+      "timestamp": 1789090619615,
+      "rawDisplayText": "can u write this better",
+      "canonicalText": "can u write this better",
+      "context": {
+        "linkedContent": {
+          "path": "Therushis's Sudden Reply.md"
+        }
+      },
+      "images": [],
+      "contentDigest": "1576fc349f8dae974c04cfed43e76694dc3d2ade97cb2d6ab9a8568d83f8c1d9",
+      "providerAssistantMessageId": "72eccb73"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1789090661188-7nzifam",
+      "userTurnOrdinal": 2,
+      "state": "accepted",
+      "localMessageId": "msg-1789090661183-u64gyvr",
+      "timestamp": 1789090661183,
+      "rawDisplayText": "update",
+      "canonicalText": "update",
+      "images": [],
+      "contentDigest": "daae4cb0eceaa12e9f23c9c273cd27eb2f176353be5281cad43a6bc2e59725dd",
+      "providerAssistantMessageId": "63efbc34"
+    }
+  ]
+}

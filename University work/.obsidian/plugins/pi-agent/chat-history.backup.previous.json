@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "savedAt": "2026-09-11T01:21:24.887Z",
+  "checksum": "03e84bc6b0a536d54f7bac0adc8f7e689b6c0e2193be3f21aeb19a496df3e329",
+  "chatHistory": {
+    "currentThreadId": "thread-1789089616601-ta2y675b",
+    "threads": [
+      {
+        "id": "thread-1789089616601-ta2y675b",
+        "title": "New chat",
+        "messages": [],
+        "createdAt": 1789089616601,
+        "updatedAt": 1789089616601,
+        "archived": false,
+        "favorite": false
+      }
+    ]
+  }
+}
