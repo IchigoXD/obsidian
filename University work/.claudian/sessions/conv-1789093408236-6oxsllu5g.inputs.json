@@ -12,20 +12,21 @@
       "rawDisplayText": "update with this quaction",
       "canonicalText": "update with this quaction",
       "context": {
-        "linkedContent": {
-          "path": "I fell love with the studies again.md"
-        },
         "editorSelection": {
           "notePath": "I fell love with the studies again.md",
           "mode": "selection",
           "selectedText": "What are the thing that I can to win a heart of a girl are there things that I have to furcus on answer me",
           "lineCount": 1,
           "startLine": 3
+        },
+        "linkedContent": {
+          "path": "I fell love with the studies again.md"
         }
       },
       "images": [],
       "contentDigest": "333de2caf2dfb4b496875f2ff2219aa0ddec7194927771eb7490a0b1fdecfd07",
-      "providerAssistantMessageId": "cdffde89"
+      "providerAssistantMessageId": "cdffde89",
+      "providerUserMessageId": "706fc99d"
     },
     {
       "schemaVersion": 1,
@@ -38,7 +39,8 @@
       "canonicalText": "can u smplify this with highlited texgt",
       "images": [],
       "contentDigest": "48ec918fa3b4c8472d1bc23133dc8a5b127a071800a3b093e5febac1393f6d05",
-      "providerAssistantMessageId": "8fc02dcd"
+      "providerAssistantMessageId": "8fc02dcd",
+      "providerUserMessageId": "0406fd41"
     }
   ]
 }

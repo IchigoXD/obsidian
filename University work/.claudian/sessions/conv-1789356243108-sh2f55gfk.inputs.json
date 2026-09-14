@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1789356243108-sh2f55gfk",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1789356243155-8l93x51",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1789356243104-cljvshx",
+      "timestamp": 1789356243104,
+      "rawDisplayText": "format and re write flow better, and also give me a answer and say what i have to do in this situatuaion",
+      "canonicalText": "format and re write flow better, and also give me a answer and say what i have to do in this situatuaion",
+      "context": {
+        "linkedContent": {
+          "path": "I do feel why i do batch things.md"
+        }
+      },
+      "images": [],
+      "contentDigest": "a43394bebd7aa30854b065ad0e74bd83785d1f22060669cb58bc8517d1cf6fad",
+      "providerAssistantMessageId": "22f05386"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "conv-1789352562777-9xpsnpc7f",
+  "providerId": "pi",
+  "title": "Solve tutorial and save answers",
+  "titleGenerationStatus": "success",
+  "createdAt": 1789352562786,
+  "lastActivityAt": 1789352711999,
+  "sessionId": "01a09db9-5338-71c3-924c-c1992d179827",
+  "selectedModel": "pi:antigravity/gemini-3.8-flash",
+  "providerState": {
+    "sessionFile": "C:\\Users\\ichi\\.pi\\agent\\sessions\\--C--Users-ichi-Documents-University Work-University work--\\2026-09-14T02-22-43-513Z_01a09db9-5338-71c3-924c-c1992d179827.jsonl",
+    "sessionId": "01a09db9-5338-71c3-924c-c1992d179827"
+  },
+  "usage": {
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextTokens": 46313,
+    "contextWindow": 1048576,
+    "contextWindowIsAuthoritative": true,
+    "inputTokens": 46313,
+    "model": "pi:antigravity/gemini-3.8-flash",
+    "percentage": 4
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1789352562777-9xpsnpc7f",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1789352562859-nrnnelz",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1789352562773-huqyb29",
+      "timestamp": 1789352562773,
+      "rawDisplayText": "can u answer this tutorial and make a new file with answers",
+      "canonicalText": "can u answer this tutorial and make a new file with answers",
+      "images": [],
+      "contentDigest": "0cb826c3eb1f9c179e50e15e064352c61e2620a7b01d9f6351b9ab302320f342",
+      "providerAssistantMessageId": "ad6c3b1e"
+    }
+  ]
+}

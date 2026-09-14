@@ -1,0 +1,25 @@
+{
+  "id": "conv-1789356243108-sh2f55gfk",
+  "providerId": "pi",
+  "title": "Refining text and situational guidance",
+  "titleGenerationStatus": "success",
+  "createdAt": 1789356243113,
+  "lastActivityAt": 1789356269687,
+  "sessionId": "01a09df1-7a00-75dd-bd9a-ae3513701107",
+  "selectedModel": "pi:antigravity/gemini-3.8-flash",
+  "providerState": {
+    "sessionFile": "C:\\Users\\ichi\\.pi\\agent\\sessions\\--C--Users-ichi-Documents-University Work-University work--\\2026-09-14T03-24-03-457Z_01a09df1-7a00-75dd-bd9a-ae3513701107.jsonl",
+    "sessionId": "01a09df1-7a00-75dd-bd9a-ae3513701107"
+  },
+  "linkedContentPath": "Nomes/I do feel why i do batch things.md",
+  "usage": {
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextTokens": 16541,
+    "contextWindow": 1048576,
+    "contextWindowIsAuthoritative": true,
+    "inputTokens": 16541,
+    "model": "pi:antigravity/gemini-3.8-flash",
+    "percentage": 2
+  }
+}
