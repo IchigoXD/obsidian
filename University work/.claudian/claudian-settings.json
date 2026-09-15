@@ -245,7 +245,10 @@
     }
   },
   "settingsProvider": "pi",
-  "lastSelectedChatModel": null,
+  "lastSelectedChatModel": {
+    "providerId": "pi",
+    "model": "pi:antigravity/gemini-3.8-flash"
+  },
   "savedProviderModel": {
     "claude": "haiku",
     "pi": "pi:antigravity/gemini-3.8-flash"

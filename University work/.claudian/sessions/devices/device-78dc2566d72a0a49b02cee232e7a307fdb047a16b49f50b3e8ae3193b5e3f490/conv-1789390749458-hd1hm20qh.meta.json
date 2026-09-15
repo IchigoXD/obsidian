@@ -1,0 +1,24 @@
+{
+  "id": "conv-1789390749458-hd1hm20qh",
+  "providerId": "pi",
+  "title": "test",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1789390749468,
+  "lastActivityAt": 1789489800181,
+  "sessionId": "01a0a006-3d80-746e-8d7b-69dbb6778970",
+  "selectedModel": "pi:antigravity/gemini-3.8-flash",
+  "providerState": {
+    "sessionFile": "/home/ichi/.pi/agent/sessions/--home-ichi-Documents-obsidian-University work--/2026-09-14T13-05-58-657Z_01a0a006-3d80-746e-8d7b-69dbb6778970.jsonl",
+    "sessionId": "01a0a006-3d80-746e-8d7b-69dbb6778970"
+  },
+  "usage": {
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextTokens": 1978,
+    "contextWindow": 1048576,
+    "contextWindowIsAuthoritative": true,
+    "inputTokens": 1978,
+    "model": "pi:antigravity/gemini-3.8-flash",
+    "percentage": 0
+  }
+}

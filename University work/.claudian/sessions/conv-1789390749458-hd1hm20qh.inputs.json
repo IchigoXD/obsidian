@@ -1,0 +1,55 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1789390749458-hd1hm20qh",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1789390749542-hsb6jip",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1789390749447-0cp239o",
+      "timestamp": 1789390749447,
+      "rawDisplayText": "test",
+      "canonicalText": "test",
+      "images": [],
+      "contentDigest": "0dd83749a380c4023c563e5cf5f0117e89ea2c9525689c6acd270138135ab55f"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1789391157816-9t155zv",
+      "userTurnOrdinal": 2,
+      "state": "accepted",
+      "localMessageId": "msg-1789391157767-h5u38jf",
+      "timestamp": 1789391157767,
+      "rawDisplayText": "test",
+      "canonicalText": "test",
+      "images": [],
+      "contentDigest": "0dd83749a380c4023c563e5cf5f0117e89ea2c9525689c6acd270138135ab55f",
+      "providerAssistantMessageId": "7792476b"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1789489435901-fd01tu6",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1789489435805-efr3q7h",
+      "timestamp": 1789489435805,
+      "rawDisplayText": "@MAT1063/",
+      "canonicalText": "@MAT1063/",
+      "images": [],
+      "contentDigest": "8f54f5a1e5c4f4774c69ec888e6243b2ba247b44fb41fe29c6e4f8643c1cb3a6"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1789489553991-iep5ofh",
+      "userTurnOrdinal": 2,
+      "state": "accepted",
+      "localMessageId": "msg-1789489553969-4x8y2j3",
+      "timestamp": 1789489553969,
+      "rawDisplayText": "@MAT1063/Chapte 4 - Notes.pdf @MAT1063/Chapte 4 - Chebyshevs Inequality.pdf @MAT1063/Chapter 5-Part 1 and 2.pdf @MAT1063/Chapter 5 Notes-Part 3.pdf @MAT1063/Chapter 5 Notes-Part 4.pdf \n\nI will be getting a quiz from these not tomorow can u make me a study guide and problams to do and practise sheet cheet sheets and things i have to do this 8 10 hours",
+      "canonicalText": "@MAT1063/Chapte 4 - Notes.pdf @MAT1063/Chapte 4 - Chebyshevs Inequality.pdf @MAT1063/Chapter 5-Part 1 and 2.pdf @MAT1063/Chapter 5 Notes-Part 3.pdf @MAT1063/Chapter 5 Notes-Part 4.pdf \n\nI will be getting a quiz from these not tomorow can u make me a study guide and problams to do and practise sheet cheet sheets and things i have to do this 8 10 hours",
+      "images": [],
+      "contentDigest": "64849eb41f38a7251a036d78802270edafc06011b8a816922952231c404ba35d"
+    }
+  ]
+}
