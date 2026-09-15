@@ -11,10 +11,14 @@
             "id": "42eb8e5702737182",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "MAT1063/STA1023_MAT1063_Tutorial_04_Solutions.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "STA1023_MAT1063_Tutorial_04_Solutions"
             }
           }
         ]
@@ -214,7 +218,7 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "e0254b771cc711f0",
+  "active": "42eb8e5702737182",
   "lastOpenFiles": [
     "Nomes/I do feel why i do batch things.md",
     "Nomes/I m at my stall.md",
