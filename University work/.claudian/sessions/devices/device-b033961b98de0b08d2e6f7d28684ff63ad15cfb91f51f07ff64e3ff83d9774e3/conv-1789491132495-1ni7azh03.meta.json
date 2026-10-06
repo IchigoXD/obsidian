@@ -1,0 +1,24 @@
+{
+  "id": "conv-1789491132495-1ni7azh03",
+  "providerId": "pi",
+  "title": "MAT1063 quiz cheatsheet and study plan",
+  "titleGenerationStatus": "success",
+  "createdAt": 1789491132508,
+  "lastActivityAt": 1789492789534,
+  "sessionId": "01a0a5fb-bcba-704a-af99-5840f76eea32",
+  "selectedModel": "pi:antigravity/gemini-3.8-flash",
+  "providerState": {
+    "sessionFile": "C:\\Users\\ichi\\.pi\\agent\\sessions\\--C--Users-ichi-Documents-University Work-University work--\\2026-09-15T16-52-13-627Z_01a0a5fb-bcba-704a-af99-5840f76eea32.jsonl",
+    "sessionId": "01a0a5fb-bcba-704a-af99-5840f76eea32"
+  },
+  "usage": {
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextTokens": 76180,
+    "contextWindow": 1048576,
+    "contextWindowIsAuthoritative": true,
+    "inputTokens": 76180,
+    "model": "pi:antigravity/gemini-3.8-flash",
+    "percentage": 7
+  }
+}

@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "STA1023_MAT1063_Tutorial_04_Solutions"
             }
+          },
+          {
+            "id": "d35b6ab4fec5e057",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "MAT1063/Chapter 5-Part 1 and 2.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Chapter 5-Part 1 and 2"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -168,27 +181,6 @@
             }
           },
           {
-            "id": "4b8660623207a1cc",
-            "type": "leaf",
-            "state": {
-              "type": "claudian-view",
-              "state": {
-                "tabWorkspace": {
-                  "version": 1,
-                  "openTabs": [
-                    {
-                      "tabId": "tab-1789356212923-rxkyxg4",
-                      "conversationId": "conv-1789356243108-sh2f55gfk"
-                    }
-                  ],
-                  "activeTabId": "tab-1789356212923-rxkyxg4"
-                }
-              },
-              "icon": "bot",
-              "title": "Claudian"
-            }
-          },
-          {
             "id": "e0254b771cc711f0",
             "type": "leaf",
             "state": {
@@ -197,9 +189,19 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "b9ab1a62c5980560",
+            "type": "leaf",
+            "state": {
+              "type": "oh-my-claudian-view",
+              "state": {},
+              "icon": "bot",
+              "title": "Oh My Claudian"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -215,37 +217,49 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "realclaudian:Open Claudian": false
+      "realclaudian:Open Claudian": false,
+      "oh-my-claudian:Open Oh My Claudian": false
     }
   },
-  "active": "42eb8e5702737182",
+  "active": "e0254b771cc711f0",
   "lastOpenFiles": [
+    "MAT1063/Chapter 5-Part 1 and 2.pdf",
+    "conflict-files-obsidian-git.md",
+    "Before the quizz.md",
+    "MAT1063/Chapte 4 - Notes.pdf",
+    "MAT1063/MAT1063_Quiz_Cheatsheet_Chapters_4_and_5.md",
+    "MAT1063/Chapte 4 - Chebyshevs Inequality.pdf",
+    "MAT1063/ch4_pages/page_30.png",
+    "MAT1063/ch4_pages/page_29.png",
+    "MAT1063/ch4_pages/page_28.png",
+    "MAT1063/ch4_pages/page_27.png",
+    "MAT1063/ch4_pages/page_26.png",
+    "MAT1063/ch4_pages/page_25.png",
+    "MAT1063/ch4_pages/page_24.png",
+    "MAT1063/ch4_pages/page_23.png",
+    "MAT1063/ch4_pages/page_22.png",
+    "MAT1063/ch4_pages/page_20.png",
+    "MAT1063/ch4_pages",
+    "MAT1063/chebyshev_pages",
+    "MAT1063/Chapter_5_Notes-Part_4.txt",
+    "MAT1063/Chapter_5_Notes-Part_3.txt",
+    "MAT1063/Chapter_5-Part_1_and_2.txt",
+    "MAT1063/Chapte_4_-_Chebyshevs_Inequality.txt",
+    "MAT1063/Chapte_4_-_Notes.txt",
+    "MAT1063/STA1023_MAT1063_Tutorial_04_Solutions.md",
     "Nomes/I do feel why i do batch things.md",
     "Nomes/I m at my stall.md",
     "I m at Stall.md",
-    "MAT1063/STA1023_MAT1063_Tutorial_04_Solutions.md",
-    "MAT1063/STA1023__MAT1063_Tutorial 04.pdf",
-    "MAT1063/extracted_text.txt",
     "PHY1203/Tute 02.md",
-    "MAT1063",
     "Nomes/Dile Birthday Plan.md",
     "Nomes/After the after party; 7-8-2026 10 34 pm at hostal.md",
     "Nomes/In the common Room.md",
     "Nomes/Therushis's Sudden Reply.md",
-    "Nomes/Pasted image 20260911071032.png",
     "Nomes/I fell love with the studies again.md",
-    "MAT1023/1664976801.pdf",
     "MAT1023/Notes.md",
     "Untitled.canvas",
-    "PHY1203/Pasted image 20260911072236.png",
-    "PHY1203",
-    "Untitled.base",
-    "PHY1921/01- Meter Bridge.pdf",
     "gemini-scribe/AGENTS.md",
-    "gemini-scribe/example-prompts.json",
     "gemini-scribe/Prompts/example-expert.md",
-    "gemini-scribe/Scheduled-Tasks/scheduled-tasks-state.json",
-    "gemini-scribe/Scheduled-Tasks/Runs",
     "MAT1023/Problem Sheet 1.md",
     "Welcome.md",
     "Finished/PHY1911/Note before Mid Exam.md"

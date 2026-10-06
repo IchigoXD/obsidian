@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1789491132495-1ni7azh03",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1789491132585-wloiiop",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1789491132490-9a3mae4",
+      "timestamp": 1789491132490,
+      "rawDisplayText": "i will have a quiz from these chapters tomorrow I got around 6 hour of study time can u make me a cheetsheet what to do and what tp study effeciantly,\n\n@MAT1063/Chapte 4 - Notes.pdf @MAT1063/Chapte 4 - Chebyshevs Inequality.pdf @MAT1063/Chapter 5-Part 1 and 2.pdf @MAT1063/Chapter 5 Notes-Part 3.pdf @MAT1063/Chapter 5 Notes-Part 4.pdf",
+      "canonicalText": "i will have a quiz from these chapters tomorrow I got around 6 hour of study time can u make me a cheetsheet what to do and what tp study effeciantly,\n\n@MAT1063/Chapte 4 - Notes.pdf @MAT1063/Chapte 4 - Chebyshevs Inequality.pdf @MAT1063/Chapter 5-Part 1 and 2.pdf @MAT1063/Chapter 5 Notes-Part 3.pdf @MAT1063/Chapter 5 Notes-Part 4.pdf",
+      "images": [],
+      "contentDigest": "065051953fca4864265a999d4c5972da8b4f903eab9c2c57f47d89f3c81f48f4",
+      "providerAssistantMessageId": "56d72bcf",
+      "providerUserMessageId": "809744e8"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1789492586709-6sy6oyb",
+      "userTurnOrdinal": 2,
+      "state": "accepted",
+      "localMessageId": "msg-1789492586692-fhgur77",
+      "timestamp": 1789492586692,
+      "rawDisplayText": "can u make a note",
+      "canonicalText": "can u make a note",
+      "images": [],
+      "contentDigest": "954ff87e7e52bcdd3f38e2d3b7be74d23618da4af91b8b156fbe2317fdde9e3b",
+      "providerAssistantMessageId": "1e48a7f6",
+      "providerUserMessageId": "a71402fe"
+    }
+  ]
+}
