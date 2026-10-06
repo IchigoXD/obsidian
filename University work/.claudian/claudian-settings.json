@@ -3,7 +3,7 @@
   "permissionMode": "yolo",
   "model": "pi:antigravity/gemini-3.8-flash",
   "thinkingBudget": "off",
-  "effortLevel": "medium",
+  "effortLevel": "low",
   "serviceTier": "default",
   "enableAutoTitleGeneration": true,
   "titleGenerationLocale": "",
@@ -239,7 +239,7 @@
       "environmentVariables": "",
       "modelAliases": {},
       "preferredThinkingByModel": {
-        "pi:antigravity/gemini-3.8-flash": "medium"
+        "pi:antigravity/gemini-3.8-flash": "low"
       },
       "toolMode": "all",
       "visibleModels": [
@@ -413,8 +413,8 @@
   },
   "settingsProvider": "pi",
   "lastSelectedChatModel": {
-    "providerId": "omp",
-    "model": "omp:google-antigravity/claude-opus-4-5"
+    "providerId": "pi",
+    "model": "pi:antigravity/gemini-3.8-flash"
   },
   "savedProviderModel": {
     "claude": "haiku",
@@ -422,7 +422,7 @@
   },
   "savedProviderEffort": {
     "claude": "high",
-    "pi": "medium"
+    "pi": "low"
   },
   "savedProviderServiceTier": {},
   "savedProviderThinkingBudget": {},

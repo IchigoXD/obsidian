@@ -1,0 +1,253 @@
+===============================
+MAT1063/CH1_Notes.pdf (Total pages: 43)
+===============================
+P1: STA1023/MAT1063 | Introduction to Probability Theory | Chapter 1
+P2: Chapter 1 – Counting Techniques | •Basic Principle of Counting | •Permutations
+P3: Introduction | In many problems of statistics, we must list all the | alternatives that are possible in a given situatio
+P4: Theorem 1.1 : Basic Principle of Counting | If an operation consists of two steps, of which the first | can be done in n
+P5: Justification of Theorem 1.1 | Let us define an outcome of an operation with the ordered pair | (xi,yi).
+P6: Example 1.1: | Suppose that a student has money to buy one book out of a | Mathematics book, Statistics book, Web Design
+P7: Example 1.1: | Suppose that a student has money to buy one book out of a | Mathematics book, Statistics book, Web Design
+P8: Example 1.1: | Suppose that a student has money to buy one book out of a | Mathematics book, Statistics book, Web Design
+P9: Example 1.2: | How many possible ways (outcomes) are there when | we roll a pair of dice, one is red and the other one i
+P10: Example 1.2: | How many possible ways (outcomes) are there when | we roll a pair of dice, one is red and the other one i
+P11: Theorem 1.1 can be extended to cover situations | where an operation consists of more than two steps. | Theorem 1.2
+P12: Example 1.3: | A quality control inspector wishes to select a part for | inspection from each of four different bins con
+P13: Example 1.3: | A quality control inspector wishes to select a part for | inspection from each of four different bins con
+P14: Example 1.4: | In how many different ways can a student answer all the | questions of a true- false test containing 20 q
+P15: Permutations | Definition 1.1 | Different ways in which a group of objects can be
+P16: Example 1.5: | How many permutations are there of the letters a, b | and c.
+P17: By generalizing the Example 1.5: | n distinct objects can be arranged in, | different ways.
+P18: Theorem 1.3 | The number of permutations of n distinct objects is  n!. | Example 1.6:
+P19: Example 1.7: | Find the number of ways (permutations) of 4 letters A, B, C and | D.
+P20: Example 1.7 modified: | Find the number of ways (permutations) of 4 letters | A, B, C and D if two letters are selected 
+P21: Generalizing the above argument, | We find that n distinct objects taken r at a time for r>0, | can be arranged in,
+P22: Theorem 1.4 | The number of permutations of n distinct objects taken | r at a time is
+P23: Example 1.9 revisited: | In how many ways can an organizer schedule three | speakers for three different meetings if the
+P24: Number of days available=n = 5 | Number of days to be selected = r = 3 | Total number of ways to select 3 days =
+P25: We have been assumed until now n objects from | which we select r objects and form permutations are | all distinct.
+P26: Example 1.10 | How many different permutations are there of the | letters in the word “GOOD”?
+P27: Example 1.11: | In how many different ways can four copies of one text | book and one copy of each of four other text bo
+P28: Example 1.11: | In how many different ways can four copies of one text book and one copy of | each of four other text bo
+P29: Generalizing the above argument, | Theorem 1.5 | The number of permutations of n objects of which n1
+P30: Circular Permutations | Permutations that occur when objects are arranged in a circle are called | circular permutations
+P31: Example 1.13: | How many circular permutations are there of four | persons playing cards?
+P32: Generalizing the above argument, | Theorem 1.6 | The number of permutations of n distinct objects
+P33: Combinations | Determining the number of ways in which r objects can | be selected from among n distinct objects without
+P34: Example 1.14: | In how many distinct ways can a supervisor select | three students among 20 students for a group
+P35: The results is denoted by | In general there are r! permutations of the object in a subset of r | objects.
+P36: for r=0,1,2,….,n | )!(! | !
+P37: Example 1.16: | How many different three member committees can be | formed from a group of seven members where four
+P38: Number of ways to select two males out of 4 = | Number of ways to select one female out of 3 = | 6!2!2
+P39: Set Partition | A combination of r objects selected from a set of n distinct objects may be | considered partition of n 
+P40: !!....! | ! | ,....,, 2121 kk nnn
+P41: Example 1.18: | In how many ways can seven Businessmen attending a convention be | assigned to one triple and two double
+P42: Example 1.20: | A passcode of 4 digits is needed to access an account. | Calculate the total number of different passcod
+P43: Practice Question: | How many possible results are there for a draw of “Lagna Wasana?” | (The machine contains 61 balls:
+===============================
+MAT1063/Section 2.1 and 2.2 Notes.pdf (Total pages: 36)
+===============================
+P1: CHAPTER 2 | PROBABILITY
+P2: 2.1 - Elements of probability -Keywords | 1)Experiment: Any process of observations or measurements that has | well defi
+P3: Keywords | 2)Outcomes : | The results obtained from an experiment.
+P4: Keywords | 3) Sample space: | The set of all possible outcomes of an experiment is called the
+P5: Keywords | Sample space with a large or infinite number of elements is best | described by a statement or rule.
+P6: Similarly if S is a set of odd positive integers | How we formulate sample space for a given situation will depend on th
+P7: Example: Describe a sample space that might be appropriate for an | experiment in which we roll a pair of dies one red a
+P8: Sample space can be classified as | Finite – if it contains finite number of elements S1 and S2 are finite sample | spac
+P9: If a sample space contains finite number of elements but the elements are | countable, then it is said to be discrete. |
+P10: 4) Events: | Any event can be identified with a collection of points, which constitute a | subset of an appropriate samp
+P11: EMPTY
+P12: Example: With reference to the example of rolling a pair of dice, green and | red, define the events A, B and C as follo
+P13: Example: Consider an experiment that tossing 3 coins simultaneously with | the intension of observing the faces that tos
+P14: S= | A= {Getting two tails from the experiment} | B= {Getting three tails from the experiment}
+P15: Example: Construct a sample space for the lifetime of a CFL bulb and | indicate the event F that the bulb fails before t
+P16: In many problems of probability we are interested in the events that are actually | combinations of two or more events f
+P17: Their Intersection | A B | : Subset of S that contains all the elements that are in both A and B.
+P18: the Complement A' of A | : Subset of S that contains all the elements of S that arenot in A.
+P19: Two events A and B in sample space S are said to bemutually exclusive | (ME) if there are no elements in common. | A B 
+P20: A contains in B | A B
+P21: Example: | Suppose for a random experiment, the Sample Space, Events A,B and C are | defined as follows:
+P22: S={A,B,C,D,E,F,G} A={A,B,C,D} B={A,C,E,G} C={E,F,G} | Find the followings: | a) 𝐴ᇱ = {E,F,G} 𝐵ᇱ = {B,D,F} 𝐶ᇱ ={A,B,C,D}
+P23: 2.2 Axioms of Probability | 1)Empirical probability (Frequency Interpretation) | • Results are completely based on exper
+P24: When n gets larger the ratiom | n | approaches to a constant value.
+P25: 2. Subjective Probability | These probabilities express the strength of one’s belief with regard to the | uncertainties.
+P26: Axioms of Probability | Suppose that each event A of an experiment having a sample spaceS there | is a number, denoted b
+P27: Axioms of Probability | AXIOM 2 | P(S) = 1
+P28: The above axioms do not need proof. But if the resulting theory is to be | applied, we must show that the axioms are sat
+P29: Probability of an Event | This is a measure of likelihood that it will occur on a scale from0 to 1. | Probability of 1 i
+P30: Theorem 2.1 | If A is an event in a discrete sample spaceS, then P(A) equals the sum of | the probabilities of the indiv
+P31: Basic Set Operations | A-B : A minus B is the set of all the elements from A that are not in B.
+P32: Basic Set Operations | A B B ATwo sets A and B are equal if and
+P33: Basic Set Operations
+P34: Basic Set Operations
+P35: Example: If we twice flip a balanced coin, what is the probability of getting at | least one head? | Sample space S =
+P36:  |  | Example: A die is loaded in such a way that each odd number is twice as
+===============================
+MAT1063/Section 2.3 and 2.4 Notes.pdf (Total pages: 26)
+===============================
+P1: 2.3 Conditional Probability | Probabilities are calculated for a given sample space. | If we restrict the sample space b
+P2: City | TotalCBA | 25010010050Male
+P3: Now we willrestrict our sample space. | If you selectmale students only, what is the probability that he is from city A?
+P4: City | TotalCBA | 25010010050Male
+P5: City | TotalCBA | 25010010050Male
+P6: Example: A local airline knows from past experience that the probability is | 0.80 that a takeoff will be on time and it
+P7: Theorem 2.9: | If A and B are any two events in sample space S and P(A)≠0 | 𝑃 𝐴 ∩ 𝐵 = 𝑃 𝐴 . 𝑃(𝐵|𝐴)
+P8: 15 | 240 | 14
+P9: Example: | If P(A)=0.5, P(B)=0.7 and P(AUB)=0.9, find | P(A|B)
+P10: Example: Find the probabilities of randomly drawing two aces in succession | from an ordinary deck of 52 playing cards i
+P11: Theorem 2.9 can be generalized. | Theorem 2.10: | If A, B and C are any three events in a sample space S such thatP(A B)
+P12: Applications of Conditional Probability | Sensitivity and Specificity | Sensitivity – Ability to detect a true positive
+P13: Truth | TotalNon | Disease
+P14: 2.4 Independent Events | Informally speaking two events A and B are independent if the | occurrence or non-occurrence of
+P15: Each of these equalities implies the other. | It means that if𝑃 𝐵 𝐴 = 𝑃(𝐵) and 𝑃(𝐵) ≠ 0then 𝑃 𝐴 𝐵 = 𝑃(𝐴)
+P16: If we substitute P(B) for P(B/A) into the formula, we get | 𝑃 𝐵 𝐴 = | ௉ ஺∩஻
+P17: Rule of Total Probability and Bayes' Theorem | In many situations the outcome of an experiment depends on what | happene
+P18: Theorem: | If the events B1, B2,…, Bk constitute a partition of the sample space S and | P(Bi)≠0 for i=1,2,...,k, then f
+P19: The completion of a construction job may be delayed because of a strike. | The probabilities are 0.60 that there will be
+P20: 0.6 0.4 | 0.35 0.85 | P(A)=(0.6)(0.35)+(0.4)(0.85)
+P21: Example: | A factory has three production lines, 𝐿ଵ, 𝐿ଶ, and 𝐿ଷ. | 40%of the products are manufactured by 𝐿ଵ,
+P22: EMPTY
+P23: Bayes' Theorem: | If B1, B2,…, Bk constitute a partition of the sample space S and | P(Bi)≠0 for i=1, … ,k, then for any
+P24: Example: A hospital uses two laboratories, L₁ and L₂, to process | blood samples. If Lab 1 was used, the probability tha
+P25: EMPTY
+P26: Example: | There are four cashiers at a supermarket and a survey was done to measure the | satisfaction of customers at 
+===============================
+MAT1063/Chapter 3 - Notes.pdf (Total pages: 22)
+===============================
+P1: STA 1023/MAT 1063 | CHAPTER 3 | PROBABILITY DISTRIBUTIONS
+P2: 3.1 Introduction | Definition 3.1 – Random Variable | If S is a sample space with a probability measure and X is a
+P3: Example 3.1: Rolling a balance six-sided dice | Solution:
+P4: Example 3.2: | In a sample of 100 students, 25 students had no siblings, 35 | students had one sibling, 20 students had 
+P5: 3.2 Discrete Random Variables | Variables defined over discrete sample space are known as discrete | random variables
+P6: Theorem 3.1 | A function can serve as the probability distribution of discrete random | variable X if and only if its va
+P7: Example 3.2: revisited | • Graphical representation
+P8: Definition 3.3 – Cumulative Density Function; CDF | If X is a discrete random variable, the function given by, | 𝐹(𝑥) = 
+P9: Example 3.2: revisited – Find the CDF of  X
+P10: Example 3.3 | Check whether the function given by 𝑝(𝑥) = | 𝑥+2
+P11: 𝑝(𝑥) = | 𝑥+2 | 25  for x = 1, 2, 3, 4, 5
+P12: CDF of X
+P13: Theorem 3.2 | The values F(x) of the distribution function of a discrete random variable | X satisfy the conditions:
+P14: Theorem 3.3 | If the range of a random variable X consists of values 𝑥ଵ < 𝑥ଶ < | … < 𝑥௡భ. Then,
+P15: Example 3.4 | Suppose the cumulative density function (CDF) of a random variable is as | follows.
+P16: 3.3 Continuous Random Variables | Continuous random variables can have all the values within the | given interval.
+P17: Definition 3.4 – The Probability Density Function; PDF | A function with values f(x), defined over the set of all real n
+P18: Theorem 3.4 | If x is a continuous random variable and a and b are real | constants with a ≤ b,
+P19: Example 3.5 | Find the values of K so that f(x) is a valid pdf of continuous random | variable X where,
+P20: 𝑓(𝑥) = ൜𝐾𝑥ଶ ; 0 ≤ 𝑥 ≤ 2 | 0 𝑜/𝑤
+P21: Example 3.6 | Find the value of K for a valid pdf | 𝑓(𝑥) = ൜𝐾𝑒ିଷ௫ ; 𝑥 > 0
+P22: EMPTY
+===============================
+MAT1063/Chapte 4 - Notes.pdf (Total pages: 34)
+===============================
+P1: CHAPTER 4 | MATHEMATICAL | EXPECTATION
+P2: 4.1 Expected value of a Random Variable | • Definition 4.1- Expected Value | If X is a discrete random variable and P(x)
+P3: In this definition it is assumed that, the sum or the integral exists. | Otherwise, the mathematical expectation is unde
+P4: Example 4.2. | Find E(X) if the pdf of X is given as; | kk
+P5: There are many problems which we are interested not only in the expected | value of a random variable X, but also in the
+P6: Theorem 4.1 | If X is a discrete random variable and P(x) is the value of its probability | distribution at x, the expec
+P7: Example 4.1 revisited | The probability distribution of X, is given by the following table. | Find E[g(X)] if g(x)=5x+2
+P8: Example 4.2 revisited | Find E(X) if the pdf of X is given as; | kk
+P9: Theorem 4.2 | kk | If a and b are constants, then
+P10: Theorem 4.3 | If C1, C2,… Cn are constants, then | kk
+P11: Example 4.3 | If the probability density of X is given by | (a) Show that E[X r]= 2 / (r+1)(r+2)
+P12: 4.2 Moments | Definition 4.2 | The moment rth about the origin of a random variable X, denoted by
+P13: μ is just expected value of random variable X and in view of its | importance in statistics we give it a special symbol 
+P14: Moments about the mean | Definition 4.4. | The rth moment about the mean of a random variable X, denoted
+P15: Example: Find μ଴ and μଵ for any random variable for which μ | exists.
+P16: The second moment about the mean is of special importance in | Statistics because it is indicative of the spread or disp
+P17: Definition 4.5. Variance | μଶ = 𝐸(𝑋 − μ)ଶ is called the variance of the distribution of X, or | simply the variance of X
+P18: Theorem 4.4 | σଶ = μଶ | ᇱ − μଶ
+P19: Example
+P20: Theorem 4.5 | If X has the variance σ2, then | Var(aX + b)= a2 Var(X).
+P21: 4.3 Moment Generating Function | Although the moments of most distributions can be determined directly | by evaluating t
+P22: Definition 4.6. | The moment generating function of a random variable X, where it | exists is given by,
+P23: EMPTY
+P24: EMPTY
+P25: for discrete case,
+P26: It can be seen that in McLaurin's series of the Moment Generating Function | of X the coefficient of tr/r! is μ’r , the 
+P27: It can be seen that, in McLaurin's series of the Moment Generating Function | of X the coefficient of tr/r! is μ’r, the 
+P28: Exercise | Find the moment generating function of the random variable | whose probability density is
+P29: The main difficulty of using Mclaurin series of a moment | generating function is that of expanding it into a | Maclauri
+P30: Often the work involved in using moment generating | function can be simplified by making use of the following | theorem
+P31: 4.4 Chebyshev’s Theorem | Theorem 4.8. (Chebyshev’s Theorem) | If μ and σ are the mean and the standard deviation of a r
+P32: Example. Find probabilities for 2σ, 3σ, 4σ
+P33: Note: The probability given by Chebyshev’s Theorem is only a lower | bound . In other words it assumes that this probabi
+P34: Theorem 4.9. (Markov’s Inequality) | If X is a random variable with the mean μ for which f(x)=0 for x, | Pr(X ≥ a) ≤ μ /
+===============================
+MAT1063/Chapte 4 - Chebyshevs Inequality.pdf (Total pages: 5)
+===============================
+P1: EMPTY
+P2: EMPTY
+P3: EMPTY
+P4: EMPTY
+P5: EMPTY
+===============================
+MAT1063/Chapter 5-Part 1 and 2.pdf (Total pages: 12)
+===============================
+P1: CHAPTER 5 | SPECIAL DISCRETE DISTRIBUTIONS
+P2: Special Probability Distribution | ContinuousDiscrete | Distributions
+P3: 1. Discrete Uniform Distribution | If a random variable can take on k different values with equal | probability, we say 
+P4: Examples
+P5: μ=E[X] =෍ x.P(x) | ௞ | ௜ୀଵ
+P6: P(x) = 1 | k  for x=1, 2, ..., k | k 1μ 2
+P7: 2. Bernoulli Distribution | If an experiment has two outcomes “success” and “failure” and | their probabilities are resp
+P8: P 𝑥;  θ = θ௫(1 − θ)(ଵି௫) ;   for x=0,1 | Thus, | P 0;  θ = (1 − θ)    and       P1;  θ = θ
+P9: 3. Binomial Distribution | Repeated trials play a very important role in probability and Statistics. | Especially when,
+P10: Several random variables are arises in connection with repeated trials. The | distribution that we discuss in this secti
+P11: Definition 5.3: | A random variable X has a binomial distribution and it is | referred to as a binomial random variable 
+P12: 1,0,0,1,1,0,1,0,0,.....,0,1 | n trials | n
+===============================
+MAT1063/Chapter 5 Notes-Part 3.pdf (Total pages: 12)
+===============================
+P1: Theorem 5.1: | 𝑏(x;n,θ)= b(n-x;n,1-θ) | Proof:
+P2: Theorem 5.2: The mean and the variance of the | binomial distribution are, | μ=nθ
+P3: Let y=x-1, m=n-1 | μ=nθ ෍ ቀ𝑚 | 𝑦 ቁ 𝜃௬(1-θ)m-y
+P4: Let y=x-2 and m=n-2 | 𝐸[𝑋(𝑋 − 1)]=n(𝑛 − 1)𝜃ଶ ෍ ቀ𝑚 | 𝑦 ቁ 𝜃௬(1 −𝜃)m-y
+P5: Reading the Binomial Table
+P6: Theorem 5.4: Moment generating function of the | binomial distribution is given by, | 𝑀௫(𝑡) = [1+θ(𝑒௧-1)]௡
+P7: Upon substituting t=0 we get, | 𝜇ଵ | ′ =nθe଴[1+θ(𝑒଴-1)]n-1
+P8: 4. Negative Binomial Distribution | In connection with repeated Bernoulli trials, we are | sometimes interested in the n
+P9: If the kth success occurs in x th trial, there must be k-1 | successes on the first x-1 trials. Therefore probability | 
+P10: Example: If the probability is 0.40 that a child | exposed to a certain contagions disease will catch it. | What is the 
+P11: = 𝑘 | 𝑥 . x! | k!(x-k)! 𝜃௞(1-θ)x-k
+P12: Example: If the probability is 0.75 that an applicant | for a driver’s license will pass the road on any given | try, wh
+===============================
+MAT1063/Chapter 5 Notes-Part 4.pdf (Total pages: 12)
+===============================
+P1: 5. Hypergeometric Distribution | To obtain a formula analogous to that of the binomial distribution | that applies to sa
+P2: Definition 5.6 | A random variable X has a hypergeometric distribution and it is | referred to as a hypergeometric rando
+P3: Note: When N is large and n is relatively small compared to N (n | should not exceed 5 percent of N), there is not much 
+P4: 6. Multinomial distribution | An immediate generalization of the binomial distribution arises | when,
+P5: 𝜃ଵ | ௫భ.θଶ | ௫మ....θ௞
+P6: 𝑓(5,2,1;8,0.5,0.3,0.2) = 8! | 5! .2! .1!(0.5)ହ(0.3)ଶ(0.2)ଵ | = 0.0945
+P7: 7. Poisson Distribution | Consider an application of binomial distribution when x=18, | n=3000, θ=0.005
+P8: Example: If 2 percent of the books bound at a certain bindery have | defective bindings, use the Poisson approximation t
+P9: Theorem 5.9: The moment generating function of the Poisson | distribution is given by, | 𝑀௑(𝑡) = 𝑒ఒ(௘೟ିଵ)
+P10: 2. The probability of single success occurring in a very short | time interval or in a very small region is proportional
+P11: Example: A certain kind of sheet metal has, on the average five | defects for 10 square feet. If we assume a Poisson dis
+P12: EMPTY
+===============================
+MAT1063/CHAPTER 6 notes.pdf (Total pages: 21)
+===============================
+P1: CHAPTER 6 | In this chapter, discuss few widely used continuous | probability distributions.
+P2: 𝜇 = | ఈାఉ | ଶ  and    𝜎ଶ =
+P3: = 1 | (𝛽 − 𝛼) න ቈ 𝑥ଶ − 2(𝑥 + 𝛽) | 2 . 𝑥 + (𝛼 + 𝛽)ଶ
+P4: The CDF of Uniform Distribution | Example 6.1 | The waiting time, 𝑋, in minutes for a customer to receive a
+P5: Example 6.2 | The time, 𝑋, in minutes taken by a student to complete a | particular statistics exercise is uniformly dis
+P6: 6.2 Gamma Distribution | Definition 6.2: A random variable X has a gamma | distribution and it is referred to as a gamma
+P7: 𝜇௥′ = 𝛽௥𝛤(𝛼 + 𝑟) | 𝛤(𝛼) | Proof:
+P8: Applications: | Suppose that Poisson events are occurring at the constant | rate of λ per unit time. Let the random vari
+P9: 6.3 Exponential Distribution | Exponential distribution is a special case of the gamma | distribution (where α=1 and β=θ
+P10: 𝜇 = 𝜃 and 𝜎ଶ = 𝜃ଶ | Proof:
+P11: CDF of Exponential Distribution | Applications: | 1. Suppose that Poisson events are occurring at the constant
+P12: 2. Also the exponential distribution can be considered as a | continuous counterpart of the geometric distribution. | (d
+P13: Exercise: A certain location on a highway, the number of | cars exceeding the speed limit by more than 40 km/h in half |
+P14: 6.4 Normal Distribution | By far, the most widely used probability model in Statistic | is the normal (or Gaussian) dist
+P15: න 1 | 𝜎√2𝜋 | 𝑒ିଵ
+P16: −2𝑥𝑡𝜎 ଶ + (𝑥 − 𝜇)ଶ | = [𝑥 − (𝜇 + 𝑡𝜎 ଶ)]ଶ − 2𝜇𝑡𝜎 ଶ − 𝑡ଶ𝜎ସ | Hence we get,
+P17: Proof: Since the relationship between the values of X and | Z is linear, Z must take on a value between 𝑧ଵ = | ௫భିఓ
+P18: very large and θ, the probability of a success on an | individual trial, is close to 0.5. | Steps to working a normal ap
+P19: Note: Strictly speaking, our results apply when n , but | the normal distribution is often used to approximate | binom
+P20: Exercise: Use the normal approximation to the binomial | distribution to determine the probability of getting 6 heads | 
+P21: Exercise: A cable manufacturer has determined that for a | 4-meter unit of cable there are α=4 defects per 4-meter. | De

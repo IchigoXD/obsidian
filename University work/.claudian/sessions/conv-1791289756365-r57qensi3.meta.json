@@ -1,0 +1,25 @@
+{
+  "id": "conv-1791289756365-r57qensi3",
+  "providerId": "pi",
+  "title": "Create MAT1063 chapter-wise study notes",
+  "titleGenerationStatus": "success",
+  "createdAt": 1791289756371,
+  "lastActivityAt": 1791289986159,
+  "sessionId": "01a11130-8c44-7160-a3d4-e4ff91288987",
+  "selectedModel": "pi:antigravity/gemini-3.8-flash",
+  "providerState": {
+    "sessionFile": "C:\\Users\\ichi\\.pi\\agent\\sessions\\--C--Users-ichi-Documents-University Work-University work--\\2026-10-06T12-29-16-741Z_01a11130-8c44-7160-a3d4-e4ff91288987.jsonl",
+    "sessionId": "01a11130-8c44-7160-a3d4-e4ff91288987"
+  },
+  "currentNote": "MAT1063/MAT1063_End_Exam_Study_Guide.md",
+  "usage": {
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextTokens": 49211,
+    "contextWindow": 1048576,
+    "contextWindowIsAuthoritative": true,
+    "inputTokens": 49211,
+    "model": "pi:antigravity/gemini-3.8-flash",
+    "percentage": 5
+  }
+}

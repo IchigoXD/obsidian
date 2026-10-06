@@ -1,0 +1,620 @@
+=== Page 1 ===
+CHAPTER 6 
+In this chapter, discuss few widely used continuous 
+probability distributions. 
+6.1 Uniform Distribution 
+Definition 6.1: A random variable has a uniform 
+distribution and it is referred to as a continuous uniform 
+random variable if and only if its probability density is 
+given by, 
+𝑢(𝑥; 𝛼, 𝛽) = ൝
+1
+𝛽 − 𝛼 𝑓𝑜𝑟 𝛼 < 𝑥 < 𝛽
+0 𝑒𝑙𝑠𝑒𝑤 ℎ𝑒𝑟𝑒     
+ 
+The parameters α and β of this probability density are real 
+constants with 𝛼 < 𝛽 
+ 
+ 
+ 
+    
+ 
+ 
+ 
+Theorem 6.1: The mean and the variance of the uniform 
+distribution are given by, 
+𝑢(𝑥; 𝛼, 𝛽) 
+x 𝛼  𝛽
+
+ଵ
+ఉିఈ 
+
+=== Page 2 ===
+𝜇 =
+ఈାఉ
+ଶ  and    𝜎ଶ =
+ଵ
+ଵଶ (𝛽 − 𝛼)ଶ 
+Proof: 
+𝜇 = 𝐸[𝑋] = න 𝑥. 𝑓(𝑥)
+ఉ
+ఈ
+𝑑𝑥 
+                = න 𝑥. 1
+𝛽 − 𝛼
+ఉ
+ఈ
+𝑑𝑥 
+                = 1
+𝛽 − 𝛼 න 𝑥.
+ఉ
+ఈ
+𝑑𝑥 
+                = 1
+𝛽 − 𝛼 ቈ𝑥ଶ
+2 ቉
+ఈ
+ఉ
+ 
+                = 1
+(𝛽 − 𝛼) . 𝛽ଶ − 𝛼ଶ
+2  
+                = 1
+(𝛽 − 𝛼) . (𝛽 − 𝛼)(𝛽 + 𝛼)
+2  
+                = (𝛼 + 𝛽)
+2  
+ 
+𝜎ଶ = න (𝑥 − 𝜇)ଶ. 𝑓(𝑥)𝑑𝑥
+ఉ
+ఈ
+ 
+     = න ൤ 𝑥 − (𝛼 + 𝛽)
+2 ൨
+ଶ 1
+(𝛽 − 𝛼) 𝑑𝑥
+ఉ
+ఈ
+ 
+
+=== Page 3 ===
+     = 1
+(𝛽 − 𝛼) න ቈ 𝑥ଶ − 2(𝑥 + 𝛽)
+2 . 𝑥 + (𝛼 + 𝛽)ଶ
+4 ቉
+ఉ
+ఈ
+ 
+    = 1
+(𝛽 − 𝛼) ቈ𝑥ଷ
+3 − (𝛼 + 𝛽)𝑥ଶ
+2 + (𝛼 + 𝛽)ଶ
+4 𝑥቉
+ఈ
+ఉ
+ 
+    = 1
+(𝛽 − 𝛼) ቈ(𝛽ଷ − 𝛼ଷ)
+3 − (𝛼 + 𝛽)(𝛽ଶ − 𝛼ଶ)
+2
++ (𝛼 + 𝛽)ଶ(𝛽 − 𝛼)
+4 ቉ 
+    = 1
+(𝛽 − 𝛼) ቈ(𝛽 − 𝛼)(𝛽ଶ + 𝛼𝛽 + 𝛼ଶ)
+3
+− (𝛼 + 𝛽)(𝛽 + 𝛼)(𝛽 − 𝛼)
+2 + (𝛼 + 𝛽)ଶ(𝛽 − 𝛼)
+4 ቉ 
+    = (𝛽ଶ + 𝛼𝛽 + 𝛼ଶ)
+3 − (𝛼 + 𝛽)ଶ
+2 + (𝛼 + 𝛽)ଶ
+4  
+    = (𝛽ଶ + 𝛼𝛽 + 𝛼ଶ)
+3 − 𝛼ଶ + 2𝛼𝛽 + 𝛽ଶ
+4  
+    = 1
+12 (𝛽ଶ − 2𝛼𝛽 + 𝛼ଶ) 
+    = 1
+12 (𝛽 − 𝛼)ଶ 
+ 
+ 
+ 
+
+=== Page 4 ===
+The CDF of Uniform Distribution 
+ 
+ 
+ 
+ 
+ 
+Example 6.1 
+The waiting time, 𝑋, in minutes for a customer to receive a 
+service at a bank is uniformly distributed between 5 and 15 
+minutes. 
+(a) Find the probability that a randomly selected customer 
+will wait less than 8 minutes. 
+(b) Find the probability that a customer waits between 7 
+and 12 minutes. 
+( c) Find the probability that a customer waits more than 13 
+minutes. 
+ 
+ 
+ 
+
+=== Page 5 ===
+Example 6.2 
+The time, 𝑋, in minutes taken by a student to complete a 
+particular statistics exercise is uniformly distributed 
+between 10 and 30 minutes. 
+(a) Find the probability that a student takes between 15 
+and 25 minutes. 
+(b) Find the value of k such that 𝑃(𝑋 > 𝑘) = 0.2 
+(c) Find the expected completion time and the variance  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+=== Page 6 ===
+6.2 Gamma Distribution 
+Definition 6.2: A random variable X has a gamma 
+distribution and it is referred to as a gamma random 
+variable if and only if its probability density is given by  
+𝑔(𝑥; 𝛼, 𝛽) = ቊ
+ଵ
+ఉഀ௰(ఈ) 𝑥ఈିଵ𝑒ି௫ ఉ⁄ 𝑓𝑜𝑟 x > 0
+0 otherwise
+    
+ 
+where 𝛼 > 0 and 𝛽 > 0 
+ 
+Properties of Gramma Function 
+ 
+ 
+ 
+ 
+ 
+ 
+Theorem 6.2 The rth moment about the origin of the gamma 
+distribution is given by, 
+
+=== Page 7 ===
+𝜇௥′ = 𝛽௥𝛤(𝛼 + 𝑟)
+𝛤(𝛼)  
+ 
+Proof:  
+𝜇௥′ = 𝐸[𝑥௥] = න 𝑥௥. 1
+𝛽ఈ𝛤(𝛼) 𝑥ఈିଵ𝑒ି௫ ఉ⁄ 𝑑𝑥
+∞
+଴
+ 
+=
+ఉೝ
+௰(ఈ) . ∫ 𝑦ఈା௥ିଵ𝑒ି௬𝑑𝑦
+∞
+଴   
+ 
+where we let 𝑦 =
+௫
+ఉ. 
+Since the integral on the right is 𝛤(𝑟 + 𝛼) according to the 
+definition of the gamma function, 
+ 
+𝜇௥′ = 𝛽௥𝛤(𝛼 + 𝑟)
+𝛤(𝛼)  
+Theorem 6.3: The mean and the variance of the gamma 
+distribution are given by, 
+ 
+𝜇 = 𝛼𝛽 and 𝜎ଶ = 𝛼𝛽ଶ 
+Exercise: Prove above theorem  
+(Hint: use theorem 6.2) 
+
+=== Page 8 ===
+Applications: 
+Suppose that Poisson events are occurring at the constant 
+rate of λ per unit time. Let the random variable Y denote 
+the waiting time for the rth event. Then Y has a gamma 
+distribution with parameters r and λ. 
+𝑓௒(𝑦) =
+ఒೝ
+௰(௥) 𝑦௥ିଵ𝑒ିఒ௬ , y > 0 where  
+ 
+𝑟 = 𝛼 and 𝜆 = 1
+𝛽 
+Theorem 6.4: The moment generating function of the 
+gamma distribution is given by, 
+𝑀௑(𝑡) = (1 −𝛽𝑡)ିఈ 
+Applications: 
+Suppose that Poisson events are occurring at the constant 
+rate of λ per unit time. Let the random variable Y denote 
+the waiting time for the rth event. Then Y has a gamma 
+distribution with parameters r and λ. 
+𝑓௒(𝑦) =
+ఒೝ
+௰(௥) 𝑦௥ିଵ𝑒ିఒ௬ , y > 0 where  
+𝑟 = 𝛼 and 𝜆 = 1
+𝛽 
+Theorem 6.4: Then moment generating function of the 
+gamma distribution is given by, 
+𝑀௑(𝑡) = (1 −𝛽𝑡)ିఈ 
+
+=== Page 9 ===
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+6.3 Exponential Distribution 
+Exponential distribution is a special case of the gamma 
+distribution (where α=1 and β=θ) that plays important role 
+in Statistics. 
+Definition 6.3: A random variable X has an exponential 
+distribution and it is referred to as an exponential random 
+variable if and only if its probability density is given by  
+ 
+𝑔(𝑥; 𝜃) = ቊ
+ଵ
+ఏ 𝑒ି௫ ఏ⁄ for x > 0
+0 elsewhere
+ where 𝜃 > 0 
+ 
+Corollary to the theorem 6.3  the mean and the variance 
+of the exponential distribution are given by 
+
+=== Page 10 ===
+ 
+𝜇 = 𝜃 and 𝜎ଶ = 𝜃ଶ 
+Proof: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+=== Page 11 ===
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CDF of Exponential Distribution 
+ 
+ 
+ 
+ 
+Applications: 
+1. Suppose that Poisson events are occurring at the constant 
+rate of λ per unit time. Let the random variable Y denote 
+the waiting time for the first event . Then Y has an 
+exponential distribution with parameter θ. 
+ 
+
+=== Page 12 ===
+2. Also the exponential distribution can be considered as a 
+continuous counterpart of the geometric distribution. 
+(describes the time for a continuous process to change its 
+state) 
+Eg. Time for an electric bulb to fail (life time of an electric 
+bulb) 
+ 
+3. Also it applies to the waiting time between events. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+=== Page 13 ===
+ 
+ 
+ 
+Exercise: A certain location on a highway, the number of 
+cars exceeding the speed limit by more than 40 km/h in half 
+an hour is a random variable having Poisson distribution 
+with λ =8.4. What is the probability of a waiting time of 
+less than 5 minutes between cars exceeding the speed limit 
+by more than 40km/h? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+=== Page 14 ===
+6.4 Normal Distribution 
+By far, the most widely used probability model in Statistic 
+is the normal (or Gaussian) distribution. 
+Definition 6.4: A random variable X has a normal 
+distribution and it is referred to as a normal random 
+variable if and only if its probability density is given by, 
+ 
+𝑁(𝑥; 𝜇, 𝜎) =
+ଵ
+ఙ√ଶగ 𝑒ିభ
+మቀೣషഋ
+഑ ቁ
+మ
+      for -∞ < 𝑥 < ∞ where 
+𝜎 > 0 
+The graph of the normal distribution, shaped like a cross 
+section of a bell.  
+ 
+Let us show that the formula of definition 6.4 can serve as 
+a probability density. 
+Since 𝜎 > 0, the values of 𝑁(𝑥; 𝜇, 𝜎) are positive. Hence it 
+satisfies the first principle of a density function. 
+ 
+Then we must show that the total area under the curve is 
+equal to 1.  
+Integrating from −∞ to ∞ and making substituting  
+𝑧 =
+௫ିఓ
+ఙ , we get 
+
+=== Page 15 ===
+න 1
+𝜎√2𝜋
+𝑒ିଵ
+ଶቀ௫ିఓ
+ఙ ቁ
+మ
+𝑑𝑥 =
+∞
+ି∞
+ 1
+√2𝜋
+න 𝑒ିଵ
+ଶ௭మ
+𝑑𝑧
+∞
+ି∞
+ 
+                                  = 2
+√2𝜋
+න 𝑒ିଵ
+ଶ௭మ
+𝑑𝑧
+∞
+଴
+ 
+ 
+By substituting 
+௭మ
+ଶ = 𝑦, in the definition of the gamma 
+function, it can be shown that, 
+න 𝑒ିଵ
+ଶ௭మ
+𝑑𝑧
+∞
+଴
+=
+𝛤 ቀ1
+2ቁ
+√2
+= √𝜋
+√2
+ 
+ Theorem 6.4: The moment generating function of the 
+normal distribution is given by 
+𝑀௑(𝑡) = 𝑒ఓ௧ାଵ
+ଶఙమ௧మ
+ 
+Proof: By definition, 
+𝑀௑(𝑡) = න 𝑒 ௫௧
+∞
+ି∞
+. 1
+𝜎√2𝜋
+𝑒ିଵ
+ଶቀ௫ିఓ
+ఙ ቁ
+మ
+𝑑𝑥 
+           = 1
+𝜎√2𝜋
+න 𝑒ି ଵ
+ଶఙమ[ିଶ௫௧ఙమା(௫ିఓ)మ]𝑑𝑥
+∞
+ି∞
+ 
+ 
+By rearranging −2𝑥𝑡𝜎 ଶ + (𝑥 − 𝜇)ଶ 
+ 
+
+=== Page 16 ===
+−2𝑥𝑡𝜎 ଶ + (𝑥 − 𝜇)ଶ
+= [𝑥 − (𝜇 + 𝑡𝜎 ଶ)]ଶ − 2𝜇𝑡𝜎 ଶ − 𝑡ଶ𝜎ସ 
+Hence we get, 
+𝑀௑(𝑡) = 𝑒ఓ௧ାଵ
+ଶఙమ௧మ
+൝ 1
+𝜎√2𝜋
+න 𝑒
+ିଵ
+ଶ൤௫ି(ఓା௧ఙమ)
+ఙ ൨
+ଶ∞
+ି∞
+𝑑𝑥ൡ 
+Since the quantity inside the braces is the integral 
+from−∞ to ∞ of a normal density with the parameter 𝜇 +
+𝑡𝜎 ଶ and  , and hence it is equal to 1. 
+It follows that, 
+𝑀௑(𝑡) = 𝑒ఓ௧ାଵ
+ଶఙమ௧మ
+ 
+Exercise: Verify that the parameter 𝜇 and 𝜎 in definition 
+6.4 are, indeed, mean and standard deviation of the normal 
+distribution. 
+Definition 6.5: The normal distribution with 𝜇 = 0and  
+𝜎 = 1 is referred to as the standard normal distribution. 
+ 
+Theorem 6.5: If X has a normal distribution with the mean 
+𝜇 and standard deviation 𝜎, then, 𝑍 =
+௑ିఓ
+ఙ   has the standard 
+normal distribution.  
+
+=== Page 17 ===
+Proof: Since the relationship between the values of X and 
+Z is linear, Z must take on a value between 𝑧ଵ =
+௫భିఓ
+ఙ and 
+𝑧ଶ =
+௫మିఓ
+ఙ when X takes on a value between x1 and x2. 
+Hence  
+𝑃𝑟( 𝑥ଵ < 𝑋 < 𝑥ଶ) = 1
+𝜎√2𝜋
+න 𝑒ିଵ
+ଶቀ௫ିఓ
+ఙ ቁ
+మ௫మ
+௫భ
+𝑑𝑥 
+                          = 1
+𝜎√2𝜋
+න 𝑒ିଵ
+ଶ௭మ
+𝑑𝑧
+௭మ
+௭భ
+ 
+                         = න 𝑛(𝑧; 0,1)𝑑𝑧
+௭మ
+௭భ
+ 
+                        = 𝑃𝑟( 𝑧ଵ < 𝑍 < 𝑧ଶ) 
+Where Z is seen to be a random variable having the 
+standard normal distribution. 
+Thus to use the standard normal table in connection with 
+any random variable having a normal distribution, we 
+simply perform the change of scale 𝑧 =
+௫ିఓ
+ఙ  
+ 
+The Normal Approximation to the Binomial 
+Distribution 
+The normal distribution is sometimes introduced as a 
+continuous distribution that provides a close approximation 
+to the binomial distribution when n, the number of trials, is 
+
+=== Page 18 ===
+very large and θ, the probability of a success on an 
+individual trial, is close to 0.5. 
+Steps to working a normal approximation to the binomial 
+distribution 
+1. Identify success, the probability of success, the number 
+of trials, and the desired number of successes. Since this 
+is a binomial problem, these are the same things which 
+were identified when working a binomial problem. 
+ 
+2. Convert the discrete x to a continuous x. 
+                   𝑃𝑟( 𝑋 ≤ 𝑥) = 𝑃𝑟( 𝑋 ≤ 𝑥 + 0.5) or  
+𝑃𝑟( 𝑋 ≥ 𝑥) = 𝑃𝑟( 𝑋 ≥ 𝑥 − 0.5) 
+3. Find the mean, 𝜇 = 𝑛𝜃 
+ 
+4. Find the standard deviation, 𝜎 = ඥ𝑛𝜃(1 −𝜃) 
+ 
+ 
+5. Compute the z-score using the standard formula for an 
+individual score. 
+𝑍 = 𝑋 − 𝑛𝜃
+𝑛𝜃(1 −𝜃) 
+6. Calculate the probability desired. 
+
+=== Page 19 ===
+ 
+ 
+ 
+ 
+Note: Strictly speaking, our results apply when n , but 
+the normal distribution is often used to approximate 
+binomial probabilities even when n is fairly small. A good 
+rule of thumb is to use this approximation only when nθ 
+and n(1-θ) are both greater than 5. 
+
+
+=== Page 20 ===
+Exercise: Use the normal approximation to the binomial 
+distribution to determine the probability of getting 6 heads 
+and 10 tails in 16 flips of a balanced coin. 
+Solution: Let X is number of heads from 16 flipping of a 
+balanced coin. 
+X has a binomial distribution with n=16 and θ=0.5. Hence 
+the required probability is Pr(X=6). 
+To approximate this probability using normal distribution, 
+it is necessary to perform continuity correction. i.e. 
+Pr(X=6)=Pr(5.5<X<6.5). 
+Then the required probability can be evaluated using 
+normal distribution with mean 𝜇 = 𝑛𝜃 = 16×0.5=8 and 
+standard deviation 𝜎 = ඥ𝑛𝜃(1 −𝜃) = √16 ⋅ 0.5 ⋅ 0.5=
+2. 
+ 
+The Normal Approximation to the Poisson Distribution 
+For sufficiently large values of 𝜆 = 𝛼𝑡 (say λ>20) the 
+normal distribution with mean μ=λ and variance𝜎ଶ = 𝜆 , 
+is an excellent approximation to the Poisson distribution if 
+an appropriate continuity correction is done. 
+i.e.                𝑃𝑟( 𝑋 ≤ 𝑥) = 𝑃𝑟( 𝑋 ≤ 𝑥 + 0.5) or  
+𝑃𝑟( 𝑋 ≥ 𝑥) = 𝑃𝑟( 𝑋 ≥ 𝑥 − 0.5) 
+
+=== Page 21 ===
+Exercise: A cable manufacturer has determined that for a 
+4-meter unit of cable there are α=4 defects per 4-meter. 
+Determine the probability of getting 7 defects in t=1.5 units 
+of cable using normal appropriation. 
+Solution: 
+Let X is number of defects per unit are. 
+ 
+X has a Poisson distribution with parameter  
+ 
+λ=αt=(4 defects per 4-meters)×(1.5 units)=6.0 
+ 
+This can be appropriated by using normal distribution with 
+parameters μ=λ=6.0 and standard deviation 𝜎 = √𝜆 =
+√6.0 = 2.4495. 
+The required probability is, 
+Pr(6.5<X<7.5) in Poisson distribution. 
+

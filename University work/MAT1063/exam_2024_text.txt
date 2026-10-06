@@ -1,0 +1,104 @@
+--- Page 1 ---
+1 
+ 
+ 
+ 
+ 
+   UNIVERSITY OF PERADENIYA 
+   DEPARTMENT OF STATISTICS AND COMPUTER SCIENCE 
+      END SEMESTER EXAMINATION, SEMESTER II – DECEMBER 2024 
+      STA1023/MAT1063 – INTRODUCTION TO PROBABILITY THEORY 
+  
+Time Allowed: TWO Hours                 Answer All Questions.  
+ 
+1 
+a). Prove the following identity.                  [ 20 marks] 
+ቀ𝑛
+𝑘ቁ = ൬𝑛 − 1
+𝑘 − 1൰ + ൬𝑛 − 1
+𝑘 ൰ 
+ 
+b). A student has 3 mathematics books, 4 history books, 3 chemistry books and 2 biology books. 
+i) If the student selects four books randomly, what is the probability that all four books are 
+from different subjects?                   [ 15 marks] 
+ii) If the student selects three books randomly, what is the probability that there are at least two 
+mathematics books?                    [ 15 marks] 
+iii) In how many ways can these books be arranged on a shelf so that all books of the same 
+subjects are together?                                [ 20 marks] 
+ 
+c). Suppose a fair n-sided die is rolled n  independent times. A match occurs if side i is observed on 
+the ith trial, i=1,2,3,.....,n. Show that the probability of at least one match  is 
+     1 −ቂ
+௡ିଵ
+௡ ቃ
+௡
+        [ 30 marks] 
+   
+  
+2. A continuous random variable X has probability density function:  
+ 
+𝑓௑(𝑥) ൝
+𝑎𝑥   ;    0 ≤ 𝑥 ≤ 8
+8𝑎   ;    8 < 𝑥 ≤ 9
+   0    ;    𝑜𝑡ℎ𝑒𝑟𝑤𝑖𝑠𝑒
+ 
+   
+a).  Find the value of a such that  𝑓(𝑥) is a legitimate pdf.    [ 15 marks] 
+b).  Derive the Cumulative Density Function (CDF) of 𝑋.    [ 20 marks] 
+c).  Calculate 𝑃(𝑋 > 7).                    [ 20 marks] 
+d).  Derive an expression for the rth moment about the origin for X.   [20 marks] 
+e).  Calculate E(X) and Var(X) using the expression in (d).     [ 25 marks] 
+ 
+                    [P.T.O.]   
+--- Page 2 ---
+2 
+ 
+ 
+3.  
+a). Let 𝑋 be a discrete random variable where the moment generating function, 𝑀௫(𝑡) exists.  
+i) For constants a and b, show that in usual notation,    [ 20 marks] 
+𝑀(௫ା௔)
+௕
+(𝑡) = 𝑒ቀ௔
+௕ቁ௧𝑀௫(𝑡/𝑏) 
+ii) If the random variable X has the Binomial Distribution with n trials and p probability of 
+success, show that the moment generating function (MGF) of X is   
+ 𝑀௫(𝑡) =  
+(௣௘೟)೙
+[ଵି(ଵି௣)௘೟]೙        [20 marks] 
+iii) Use the MGF to find the mean value of X.      [ 20 marks] 
+b). Customers arrive in a certain shop according to an approximate Poisson process at a mean rate 
+of 25 per hour. 
+i) What is the probability that the shopkeeper will have to wait exactly 5 minutes for the arrival 
+of the first customer?                               [ 10 marks] 
+ii) Find a lower bound for the probability of waiting time within two standard deviations of 
+mean. State the inequality you used to obtain the answer.     [ 15 marks] 
+iii) Use Normal Approximation to calculate the exact probability value indicated in part (ii).
+                                                                                                     [ 15 marks] 
+4.   
+a). Suppose 10 cards are drawn one at a time with replacement from a standard deck of playing 
+cards. What is the probability that a Diamond card will be picked 
+i) exactly 3 times?         [ 15 marks] 
+ii) for the first time in the 4th roll?       [ 15 marks] 
+iii) for the 4th time in the 7th roll?       [ 20 marks] 
+   
+b).  The speeds of buses of a certain brand are normally distributed with a mean of 90 km/hr and a 
+standard deviation of 10 km/hr.   
+i) What percentage of buses will ride within speed 87km/hr and 102 km/hr?               [15 marks] 
+ii) Calculate the 90th percentile for speed.                   [ 15 marks] 
+iii) What percentage of buses will fall within one standard deviation of the mean speed. 
+                                    [ 20 marks] 
+                 -------------------------------END----------------------  
+ 
+ 
+ 
+ 
+Distribution Density Function 
+Binomial (𝑛, 𝜃) 𝑃(𝑋 = 𝑥) = ቀ𝑛
+𝑥ቁ 𝜃 ௫(1 − 𝜃)௡ି௫; 𝑥 = 0,1,2, … , 𝑛 
+Negative Binomial (𝑘, 𝜃) 𝑃(𝑋 = 𝑥) = ൬𝑥 − 1
+𝑘 − 1൰ 𝜃௞(1 − 𝜃)௫ି௞; 𝑥 = 𝑘, 𝑘 + 1, 𝑘 + 2, …. 
+Geometric ( 𝜃) 𝑃(𝑋 = 𝑥) = 𝜃 (1 − 𝜃)௫ିଵ; 𝑥 = 1,2, … 
+Poisson (λ) 𝑃(𝑋 = 𝑥) =
+ఒೣ௘షഊ
+௫! ;  𝑥 = 0,1,2, where   𝐸(𝑋) = 𝜆, 𝑉𝑎𝑟(𝑋) = 𝜆 

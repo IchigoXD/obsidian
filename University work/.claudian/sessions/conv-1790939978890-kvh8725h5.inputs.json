@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1790939978890-kvh8725h5",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1790939978930-zwv6x3a",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1790939978882-kd5707n",
+      "timestamp": 1790939978882,
+      "rawDisplayText": "make a readable better short note from this",
+      "canonicalText": "make a readable better short note from this",
+      "context": {
+        "currentNote": {
+          "path": "PHY1921/Error Theory 2026.pdf"
+        },
+        "contextFiles": [
+          "PHY1921/Error Theory 2026.pdf"
+        ]
+      },
+      "images": [],
+      "contentDigest": "2ed290d465f963a4e5258c79aacef179f283629f758cbb21c25fa04f0ac7b0c9",
+      "providerAssistantMessageId": "7595f3e3"
+    }
+  ]
+}

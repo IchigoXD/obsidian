@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1791289756365-r57qensi3",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1791289756411-2zhnzci",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1791289756361-hel17yj",
+      "timestamp": 1791289756361,
+      "rawDisplayText": "@MAT1063/  I m having a end exam for this subject, can u make the study material for me by the note that I have been givine u... make a short note using chapter wise and make it clean and simple to understand",
+      "canonicalText": "@MAT1063/  I m having a end exam for this subject, can u make the study material for me by the note that I have been givine u... make a short note using chapter wise and make it clean and simple to understand",
+      "images": [],
+      "contentDigest": "5e97add14da0be8e334efeb5beef12b8fc9e6a15e8620fdad41d13f7cd545400",
+      "providerAssistantMessageId": "17a29803",
+      "providerUserMessageId": "3d1909bc"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1790897202683-4azd0v2xj",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1790897202745-tx6lig3",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1790897202649-oy48t65",
+      "timestamp": 1790897202649,
+      "rawDisplayText": "analysis these and make guide me from my life and teach me things to do and what are the correct thingss and wrong thinggss",
+      "canonicalText": "analysis these and make guide me from my life and teach me things to do and what are the correct thingss and wrong thinggss",
+      "context": {
+        "currentNote": {
+          "path": "At the common room.md"
+        },
+        "contextFiles": [
+          "At the common room.md"
+        ]
+      },
+      "images": [],
+      "contentDigest": "7eaa99c41f5648af32b1647b3a2224b81513e80c1bc6cd7841098e8bc02c275d"
+    }
+  ]
+}

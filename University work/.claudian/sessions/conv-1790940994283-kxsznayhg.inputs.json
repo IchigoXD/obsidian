@@ -1,0 +1,47 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1790940994283-kxsznayhg",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1790940994349-1jy9yt9",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1790940994279-8ke6cvq",
+      "timestamp": 1790940994279,
+      "rawDisplayText": "@PHY1921/07 - Newtons Law of Cooling.pdf @PHY1921/08 - Wheatstone Bridge.pdf @PHY1921/09 -Tangent Galvanometer.pdf @PHY1921/09 -Tangent Galvanometer.pdf @PHY1921/11 - Melting Point of Wax.pdf @PHY1921/10 - Capacitor Charging and Discharging.pdf @PHY1921/12 - Properties of Matter II.pdf @PHY1921/03 - Magnetometer.pdf @PHY1921/01- Meter Bridge.pdf @PHY1921/02 - Potentiometer.pdf @PHY1921/06- Youngs Modulus of a Copper wire.pdf @PHY1921/05- Capillary Rise Method.pdf @PHY1921/04- Properties of Matter I.pdf make a shortnote from these report,",
+      "canonicalText": "@PHY1921/07 - Newtons Law of Cooling.pdf @PHY1921/08 - Wheatstone Bridge.pdf @PHY1921/09 -Tangent Galvanometer.pdf @PHY1921/09 -Tangent Galvanometer.pdf @PHY1921/11 - Melting Point of Wax.pdf @PHY1921/10 - Capacitor Charging and Discharging.pdf @PHY1921/12 - Properties of Matter II.pdf @PHY1921/03 - Magnetometer.pdf @PHY1921/01- Meter Bridge.pdf @PHY1921/02 - Potentiometer.pdf @PHY1921/06- Youngs Modulus of a Copper wire.pdf @PHY1921/05- Capillary Rise Method.pdf @PHY1921/04- Properties of Matter I.pdf make a shortnote from these report,",
+      "images": [],
+      "contentDigest": "3ff9a2ac22ff19428304da34d2668026eb0173cb6d944eed76dbede51a5bc367",
+      "providerAssistantMessageId": "e1571fb9"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1790945764891-6074qjz",
+      "userTurnOrdinal": 2,
+      "state": "accepted",
+      "localMessageId": "msg-1790945764869-uv56wma",
+      "timestamp": 1790945764869,
+      "rawDisplayText": "@PHY1921/PHY1921 Practical Short Notes.md I wnna export this as PDF but the first table is going out of page. can u make a pdf",
+      "canonicalText": "@PHY1921/PHY1921 Practical Short Notes.md I wnna export this as PDF but the first table is going out of page. can u make a pdf",
+      "context": {
+        "currentNote": {
+          "path": "PHY1921/PHY1921 Practical Short Notes.md"
+        },
+        "editorSelection": {
+          "notePath": "PHY1921/PHY1921 Practical Short Notes.md",
+          "mode": "selection",
+          "selectedText": "N",
+          "lineCount": 1,
+          "startLine": 23
+        },
+        "contextFiles": [
+          "PHY1921/PHY1921 Practical Short Notes.md"
+        ]
+      },
+      "images": [],
+      "contentDigest": "bc98c63d82d92c2dff7b7434a253b75a66b6c572b507cd78dede82f71cd44cd7",
+      "providerAssistantMessageId": "706ee5e6"
+    }
+  ]
+}

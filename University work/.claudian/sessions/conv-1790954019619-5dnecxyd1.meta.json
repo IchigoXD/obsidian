@@ -1,0 +1,24 @@
+{
+  "id": "conv-1790954019619-5dnecxyd1",
+  "providerId": "pi",
+  "title": "Explain Young's modulus",
+  "titleGenerationStatus": "success",
+  "createdAt": 1790954019626,
+  "lastActivityAt": 1790954050139,
+  "sessionId": "01a0fd2d-9cb9-7686-b18d-47068d269370",
+  "selectedModel": "pi:antigravity/gemini-3.8-flash",
+  "providerState": {
+    "sessionFile": "C:\\Users\\ichi\\.pi\\agent\\sessions\\--C--Users-ichi-Documents-University Work-University work--\\2026-10-02T15-13-40-025Z_01a0fd2d-9cb9-7686-b18d-47068d269370.jsonl",
+    "sessionId": "01a0fd2d-9cb9-7686-b18d-47068d269370"
+  },
+  "usage": {
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextTokens": 20186,
+    "contextWindow": 1048576,
+    "contextWindowIsAuthoritative": true,
+    "inputTokens": 20186,
+    "model": "pi:antigravity/gemini-3.8-flash",
+    "percentage": 2
+  }
+}

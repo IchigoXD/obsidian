@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1791289689104-9ucfrtjwl",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1791289689165-pgymosi",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1791289689098-qc36cwr",
+      "timestamp": 1791289689098,
+      "rawDisplayText": "@MAT1063/",
+      "canonicalText": "@MAT1063/",
+      "images": [],
+      "contentDigest": "8f54f5a1e5c4f4774c69ec888e6243b2ba247b44fb41fe29c6e4f8643c1cb3a6"
+    }
+  ]
+}

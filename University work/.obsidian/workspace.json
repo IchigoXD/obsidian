@@ -4,37 +4,46 @@
     "type": "split",
     "children": [
       {
-        "id": "a7970bd530171078",
+        "id": "312866db8cfc724e",
         "type": "tabs",
+        "dimension": 67.12062256809338,
         "children": [
           {
-            "id": "42eb8e5702737182",
+            "id": "1ed137b14c0417a6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MAT1063/STA1023_MAT1063_Tutorial_04_Solutions.md",
+                "file": "MAT1063/MAT1063_End_Exam_Study_Guide.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "STA1023_MAT1063_Tutorial_04_Solutions"
-            }
-          },
-          {
-            "id": "d35b6ab4fec5e057",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "MAT1063/Chapter 5-Part 1 and 2.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Chapter 5-Part 1 and 2"
+              "title": "MAT1063_End_Exam_Study_Guide"
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "dc169222b5f48d2a",
+        "type": "tabs",
+        "dimension": 32.87937743190661,
+        "children": [
+          {
+            "id": "75095f2bbfbed8a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MAT1063/Things to Memorize.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Things to Memorize"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,23 +102,24 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "0dc461c773d58480",
     "type": "split",
     "children": [
       {
-        "id": "f6fca80eb80dc428",
+        "id": "b6cb6f97eafd302a",
         "type": "tabs",
         "children": [
           {
-            "id": "43abdeedef228851",
+            "id": "278b95639a017a39",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PHY1911/04 - Convex and Concave Lenses.pdf",
+                "file": "PHY1921/Things to Memorize.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,25 +129,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 04 - Convex and Concave Lenses"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "f21c85523dca17e1",
+            "id": "b352a4d34240a6f0",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PHY1911/04 - Convex and Concave Lenses.pdf",
+                "file": "Geethanjale Artist Revel Idea.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 04 - Convex and Concave Lenses"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "5d7ffa5c04feec1e",
+            "id": "a431fc024ce5ca50",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -152,7 +162,7 @@
             }
           },
           {
-            "id": "dda8d42a80af8656",
+            "id": "e47f9bec9a174771",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -166,12 +176,12 @@
             }
           },
           {
-            "id": "2c3b03ab19809535",
+            "id": "feada6c47f1723bf",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "MAT1023/1664976801.pdf",
+                "file": "Geethanjale Artist Revel Idea.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -181,7 +191,7 @@
             }
           },
           {
-            "id": "e0254b771cc711f0",
+            "id": "78178c3731ae6ebb",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -191,7 +201,7 @@
             }
           },
           {
-            "id": "b9ab1a62c5980560",
+            "id": "fdc9655b1e9f7494",
             "type": "leaf",
             "state": {
               "type": "oh-my-claudian-view",
@@ -205,7 +215,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 575.0999755859375
+    "width": 463.9000244140625
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -217,18 +227,48 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "realclaudian:Open Claudian": false,
       "oh-my-claudian:Open Oh My Claudian": false
     }
   },
-  "active": "e0254b771cc711f0",
+  "active": "78178c3731ae6ebb",
   "lastOpenFiles": [
-    "MAT1063/Chapter 5-Part 1 and 2.pdf",
-    "conflict-files-obsidian-git.md",
-    "Before the quizz.md",
-    "MAT1063/Chapte 4 - Notes.pdf",
-    "MAT1063/MAT1063_Quiz_Cheatsheet_Chapters_4_and_5.md",
+    "Nomes/At the common room.md",
+    "MAT1063/MAT1063_End_Exam_Study_Guide.md",
+    "Nomes/Feel Lil Sad,.md",
+    "MAT1063/Things to Memorize.md",
+    "PHY1921/PHY1921 Practical Notes.pdf",
+    "MAT1063/ch6_dump.txt",
+    "PHY1921/PHY1921 Practical Short Notes.md",
+    "MAT1063/End Semester Examiation_2024.pdf",
+    "MAT1063/pdf_structure_summary.txt",
+    "MAT1063/exam_2024_text.txt",
+    "MAT1063/exam_2023_text.txt",
+    "MAT1063/STA1023__MAT1063_Tutorial 03.pdf",
     "MAT1063/Chapte 4 - Chebyshevs Inequality.pdf",
+    "MAT1063/STD Normal Table.pdf",
+    "MAT1063/End Semester Examiation_2023.pdf",
+    "PHY1921/Things to Memorize.md",
+    "Nomes/Fight Club.md",
+    "PHY1921/10 - Capacitor Charging & Discharging.pdf.md",
+    "PHY1921/Error Theory.md",
+    "Nomes/Dile Birthday Plan.md",
+    "Non-Academic Work/Geethanjali/Geethanjale Artist Revel Idea.md",
+    "Non-Academic Work/Geethanjali/Screenshot 2026-09-16 215636.png",
+    "Nomes/Therushis's Sudden Reply.md",
+    "Nomes/Pasted image 20260911071032.png",
+    "Nomes/I fell love with the studies again.md",
+    "Nomes/I m at my stall.md",
+    "Nomes/I do feel why i do batch things.md",
+    "Nomes/Before the quizz.md",
+    "Nomes/I felt Chaotic Again.md",
+    "PeraBots/Workshop 1.md",
+    "Nomes/After the after party; 7-8-2026 10 34 pm at hostal.md",
+    "MAT1023/Problem Sheet 1.md",
+    "MAT1023/Notes.md",
+    "PHY1203/Tute 02.md",
+    "PHY1203/Pasted image 20260911072236.png",
+    "conflict-files-obsidian-git.md",
+    "MAT1063/MAT1063_Quiz_Cheatsheet_Chapters_4_and_5.md",
     "MAT1063/ch4_pages/page_30.png",
     "MAT1063/ch4_pages/page_29.png",
     "MAT1063/ch4_pages/page_28.png",
@@ -236,32 +276,8 @@
     "MAT1063/ch4_pages/page_26.png",
     "MAT1063/ch4_pages/page_25.png",
     "MAT1063/ch4_pages/page_24.png",
-    "MAT1063/ch4_pages/page_23.png",
-    "MAT1063/ch4_pages/page_22.png",
-    "MAT1063/ch4_pages/page_20.png",
-    "MAT1063/ch4_pages",
-    "MAT1063/chebyshev_pages",
-    "MAT1063/Chapter_5_Notes-Part_4.txt",
-    "MAT1063/Chapter_5_Notes-Part_3.txt",
-    "MAT1063/Chapter_5-Part_1_and_2.txt",
-    "MAT1063/Chapte_4_-_Chebyshevs_Inequality.txt",
-    "MAT1063/Chapte_4_-_Notes.txt",
     "MAT1063/STA1023_MAT1063_Tutorial_04_Solutions.md",
-    "Nomes/I do feel why i do batch things.md",
-    "Nomes/I m at my stall.md",
     "I m at Stall.md",
-    "PHY1203/Tute 02.md",
-    "Nomes/Dile Birthday Plan.md",
-    "Nomes/After the after party; 7-8-2026 10 34 pm at hostal.md",
-    "Nomes/In the common Room.md",
-    "Nomes/Therushis's Sudden Reply.md",
-    "Nomes/I fell love with the studies again.md",
-    "MAT1023/Notes.md",
-    "Untitled.canvas",
-    "gemini-scribe/AGENTS.md",
-    "gemini-scribe/Prompts/example-expert.md",
-    "MAT1023/Problem Sheet 1.md",
-    "Welcome.md",
-    "Finished/PHY1911/Note before Mid Exam.md"
+    "Untitled.canvas"
   ]
 }

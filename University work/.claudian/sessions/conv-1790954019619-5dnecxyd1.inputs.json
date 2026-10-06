@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1790954019619-5dnecxyd1",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1790954019694-c17t7fj",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1790954019603-q74d4s4",
+      "timestamp": 1790954019603,
+      "rawDisplayText": "what is Young's Modulus",
+      "canonicalText": "what is Young's Modulus",
+      "images": [],
+      "contentDigest": "b31488f6ab9a849cd05a8ef14ac0cb007ca47f41070fbf5c1f12cbb90d2c20c8",
+      "providerAssistantMessageId": "9b6ba640",
+      "providerUserMessageId": "c3256d04"
+    }
+  ]
+}

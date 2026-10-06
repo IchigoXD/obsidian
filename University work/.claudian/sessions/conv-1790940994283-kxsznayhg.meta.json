@@ -1,0 +1,25 @@
+{
+  "id": "conv-1790940994283-kxsznayhg",
+  "providerId": "pi",
+  "title": "Review PHY1921 physics lab manuals",
+  "titleGenerationStatus": "success",
+  "createdAt": 1790940994292,
+  "lastActivityAt": 1790947324039,
+  "sessionId": "01a0fc66-dc6d-730f-a8f9-18aa41ff78dd",
+  "selectedModel": "pi:antigravity/gemini-3.8-flash",
+  "providerState": {
+    "sessionFile": "C:\\Users\\ichi\\.pi\\agent\\sessions\\--C--Users-ichi-Documents-University Work-University work--\\2026-10-02T11-36-34-669Z_01a0fc66-dc6d-730f-a8f9-18aa41ff78dd.jsonl",
+    "sessionId": "01a0fc66-dc6d-730f-a8f9-18aa41ff78dd"
+  },
+  "currentNote": "PHY1921/Things to Memorize.md",
+  "usage": {
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextTokens": 152782,
+    "contextWindow": 1048576,
+    "contextWindowIsAuthoritative": true,
+    "inputTokens": 152782,
+    "model": "pi:antigravity/gemini-3.8-flash",
+    "percentage": 15
+  }
+}

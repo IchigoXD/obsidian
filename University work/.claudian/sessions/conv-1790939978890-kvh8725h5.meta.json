@@ -1,0 +1,25 @@
+{
+  "id": "conv-1790939978890-kvh8725h5",
+  "providerId": "pi",
+  "title": "Summarize text into readable notes",
+  "titleGenerationStatus": "success",
+  "createdAt": 1790939978896,
+  "lastActivityAt": 1790940063823,
+  "sessionId": "01a0fc57-5e10-7710-8271-51e80951a0a3",
+  "selectedModel": "pi:antigravity/gemini-3.8-flash",
+  "providerState": {
+    "sessionFile": "C:\\Users\\ichi\\.pi\\agent\\sessions\\--C--Users-ichi-Documents-University Work-University work--\\2026-10-02T11-19-39-281Z_01a0fc57-5e10-7710-8271-51e80951a0a3.jsonl",
+    "sessionId": "01a0fc57-5e10-7710-8271-51e80951a0a3"
+  },
+  "currentNote": "PHY1921/Error Theory.md",
+  "usage": {
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextTokens": 33495,
+    "contextWindow": 1048576,
+    "contextWindowIsAuthoritative": true,
+    "inputTokens": 33495,
+    "model": "pi:antigravity/gemini-3.8-flash",
+    "percentage": 3
+  }
+}

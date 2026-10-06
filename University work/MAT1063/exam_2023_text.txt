@@ -1,0 +1,96 @@
+--- Page 1 ---
+ 
+(Page 1 of 2) 
+               UNIVERSITY OF PERADENIYA  
+DEPARTMENT OF STATISTICS & COMPUTER SCIENCE 
+         End Semester Examination – 2023/2024 (Semester II) 
+STA1023/MAT1063/ST102/MT102 – Introduction to Probability Theory  
+ 
+Time allowed: TWO hours                                                       Answer ALL questions    
+Non-programmable, scientific calculators are allowed. 
+Statistical tables are provided 
+1) Counting techniques are useful to calculate all possible ways of completing a task under different conditions. 
+a) Suppose a job consists of k different tasks where the ith of which can be done in ni ways, 𝑖 = 1, … ,𝑘. 
+Show that the entire job can be done in 𝑛ଵ × 𝑛ଶ × … … .×𝑛௞ different ways.      [ 30 marks] 
+b) Four boys and four girls are to be seated at a round table. 
+i. How many distinct seating arrangements are there if no restrictions are imposed?       [ 5 marks] 
+ii. In how many distinct ways can 4 boys and 4 girls be seated alternately?      [ 10 marks] 
+iii. In how many ways can they be seated if one boy and one girl among them refused to sit together? 
+   [10 marks] 
+iv. Derive a general formula for part (iii) if a total of m boys and n girls appear in the scenario where one 
+boy and one girl among them refused to sit together.         [ 15 marks] 
+ 
+c) Morse code is used to send messages with “dots” and “dashes”, which are known to occur in a proportion of 
+3:4. Suppose there is an interference in the transmission line, and with probability 1/8 a dot is mistakenly 
+received as a dash and vice versa. Calculate the probability of receiving a dot correctly.    [ 30 marks] 
+ 
+2) Two fair six-sided dice are rolled simultaneously. Define a random variable X such that; 
+X = the sum of the outcomes of the two dice. 
+a) Derive the probability mass function (pmf) of X.         [ 20 marks] 
+b) Verify that function derived in part (a) is a legitimate pmf.        [ 10 marks] 
+c) Calculate P(X is an even number).           [ 10 marks] 
+d) Calculate the expected value and the variance of X.         [ 20 marks] 
+e) Derive the Cumulative Density Function (CDF) of X and sketch the function.      [ 20 marks] 
+f) Explain how the CDF can be used to find the median of X.        [ 20 marks] 
+ 
+3) a)   Let 𝑋 be a Poisson random variable with parameter 𝜆. 
+i. Show that  𝐸[𝑋௡] = 𝜆𝐸[(𝑋 + 1)௡ିଵ] for 𝑛 ≥ 1.         [ 35 marks] 
+ii. Using the result in part (i), compute 𝐸[𝑋ଷ].         [ 15 marks] 
+ 
+b) A loss for a company has the moment-generating function 𝑀(𝑡) =
+଴.ଵ଺
+଴.ଵ଺ି௧ , where 𝑡 < 0.16.  An insurance 
+policy pays a benefit equal to 70% of the loss. What is the moment-generating function of the benefit?
+                           [ 20 marks] 
+[P.T.O]     
+ 
+ 
+
+--- Page 2 ---
+ 
+(Page 2 of 2) 
+[Question 3 continued…] 
+ 
+c) A lot of 40 components is deemed unacceptable if it contains 3 or more defectives. The procedure for 
+sampling a lot is to select 5 components at random and to reject the lot if at least one defective is found. 
+What is the probability that exactly 1 defective is found in the sample, given that there are exactly 3 
+defectives in the entire lot? 
+   [30 marks] 
+ 
+4)   
+a) Buses arrive at a specified stop at 15-minute intervals starting at 7:00 A.M. That is, they arrive at 7:00, 
+7:15, 7:30, 7:45, and so on. The arrival time of a passenger at this stop is uniformly distributed between 
+7:00 and 7:30. Find the probability that the passenger waits;  
+      
+i. less than 5 minutes for a bus;                               [2 5 marks] 
+ii. more than 10 minutes for a bus.                       [ 15 marks] 
+ 
+b) The company “Bright Lights” manufactures a new line of LED bulbs. The quality control department 
+ has determined that the lifespan (in hundred hours) of these bulbs, 𝑋, follows a normal distribution, 
+𝑋 ∼ 𝑁(𝜇, 𝜎ଶ).   
+If 12% of bulbs fail before 72 (hundred hours) and the top 7% last longer than 109 (hundred hours), find 
+the values of the mean 𝜇 and the standard deviation 𝜎.                     [ 60 marks]
+         
+ 
+************ END ************ 
+ 
+  
+ 
+Distribution Density Function 
+Binomial (𝑛, 𝜃) 𝑃(𝑋 = 𝑥) = ቀ𝑛
+𝑥ቁ 𝜃 ௫(1 − 𝜃)௡ି௫; 𝑥 = 0,1,2, … , 𝑛 
+Negative Binomial (𝑘, 𝜃) 𝑃(𝑋 = 𝑥) = ൬𝑥 − 1
+𝑘 − 1൰ 𝜃௞(1 − 𝜃)௫ି௞; 𝑥 = 𝑘, 𝑘 + 1, 𝑘 + 2, …. 
+Geometric ( 𝜃) 𝑃(𝑋 = 𝑥) = 𝜃(1 − 𝜃)௫ିଵ; 𝑥 = 1,2, … 
+Hypergeometric (𝑛, 𝑁, 𝑀) 
+𝑃(𝑋 = 𝑥) =
+ቀ𝑀
+𝑥 ቁ ൫ேିெ
+௡ି௫ ൯
+ቀ𝑁
+𝑛ቁ
+;  𝑥 = 0,1,2, … , 𝑛  , 𝑥 ≤ 𝑀   𝑎𝑛𝑑  
+                                                                          𝑛 − 𝑥 ≤ 𝑁 − 𝑀
+Poisson (λ) 𝑃(𝑋 = 𝑥) =
+ఒೣ௘షഊ
+௫! ;  𝑥 = 0,1,2, … 
