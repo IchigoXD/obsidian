@@ -4,43 +4,49 @@
     "type": "split",
     "children": [
       {
-        "id": "312866db8cfc724e",
+        "id": "472af2e66b96088d",
         "type": "tabs",
-        "dimension": 67.12062256809338,
         "children": [
           {
-            "id": "1ed137b14c0417a6",
+            "id": "a0ecdba62dae8b02",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MAT1063/MAT1063_End_Exam_Study_Guide.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "MAT1063_End_Exam_Study_Guide"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
       },
       {
-        "id": "dc169222b5f48d2a",
+        "id": "b0b6fe7e501d01e9",
         "type": "tabs",
-        "dimension": 32.87937743190661,
         "children": [
           {
-            "id": "75095f2bbfbed8a9",
+            "id": "c96fd7af694791ca",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MAT1063/Things to Memorize.md",
-                "mode": "source",
+                "file": "PHY1203/PHY1203_Final_Exam_Study_Pack.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Things to Memorize"
+              "title": "PHY1203_Final_Exam_Study_Pack"
+            }
+          },
+          {
+            "id": "993934da5f7a67cf",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "https://chatgpt.com/"
+              },
+              "icon": "lucide-file",
+              "title": "ChatGPT"
             }
           }
         ]
@@ -102,8 +108,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "0dc461c773d58480",
@@ -215,7 +220,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 463.9000244140625
+    "width": 435.9000244140625
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -232,30 +237,45 @@
   },
   "active": "78178c3731ae6ebb",
   "lastOpenFiles": [
-    "Nomes/At the common room.md",
-    "MAT1063/MAT1063_End_Exam_Study_Guide.md",
-    "Nomes/Feel Lil Sad,.md",
-    "MAT1063/Things to Memorize.md",
-    "PHY1921/PHY1921 Practical Notes.pdf",
-    "MAT1063/ch6_dump.txt",
-    "PHY1921/PHY1921 Practical Short Notes.md",
+    "PHY1203/PHY1203_Final_Exam_Study_Pack.md",
+    "surfing-bookmarks/ChatGPT 1.md",
+    "surfing-bookmarks/ChatGPT.md",
+    "surfing-bookmarks",
     "MAT1063/End Semester Examiation_2024.pdf",
-    "MAT1063/pdf_structure_summary.txt",
-    "MAT1063/exam_2024_text.txt",
-    "MAT1063/exam_2023_text.txt",
-    "MAT1063/STA1023__MAT1063_Tutorial 03.pdf",
-    "MAT1063/Chapte 4 - Chebyshevs Inequality.pdf",
-    "MAT1063/STD Normal Table.pdf",
-    "MAT1063/End Semester Examiation_2023.pdf",
+    "MAT1063/MAT1063_End_Exam_Study_Guide.md",
+    "PHY1203/generate_study_pack.py",
+    "PHY1203/magpp_sample_p13.jpg",
+    "PHY1203/magpp_sample_p10.jpg",
+    "PHY1203/magpp_sample_p7.jpg",
+    "PHY1203/magpp_sample_p4.jpg",
+    "PHY1203/magpp_sample_p1.jpg",
+    "PHY1203/mol_sample_p21.jpg",
+    "PHY1203/mol_sample_p16.jpg",
+    "PHY1203/mol_sample_p11.jpg",
+    "PHY1203/mol_sample_p6.jpg",
+    "PHY1203/mol_p5.jpg",
+    "PHY1203/extracted_past_papers/PHY1203 2023_2024.txt",
+    "PHY1203/extracted_past_papers/PHY 1203 2022-2023.txt",
+    "PHY1203/extracted_past_papers/PH 102 2914-2015.txt",
+    "PHY1203/extracted_past_papers/PH 102 2019-2020.txt",
+    "PHY1203/extracted_past_papers/PH 102 2018-2019.txt",
+    "PHY1203/extracted_past_papers/PH 102 2017-2018.txt",
+    "PHY1203/extracted_past_papers/PH 102 2015-2016.txt",
+    "Nomes/Therushis's Sudden Reply.md",
+    "Nomes/At Smart Room.md",
+    "MAT1063/Things to Memorize.md",
+    "MAT1063/STA1023_MAT1063_Tutorial_04_Solutions.md",
+    "MAT1023/Notes.md",
+    "MAT1023/Problem Sheet 1.md",
+    "Nomes/At the common room.md",
+    "Non-Academic Work/Geethanjali/Geethanjale Artist Revel Idea.md",
+    "Nomes/Dile Birthday Plan.md",
+    "Nomes/Feel Lil Sad,.md",
+    "PHY1921/PHY1921 Practical Short Notes.md",
     "PHY1921/Things to Memorize.md",
     "Nomes/Fight Club.md",
     "PHY1921/10 - Capacitor Charging & Discharging.pdf.md",
     "PHY1921/Error Theory.md",
-    "Nomes/Dile Birthday Plan.md",
-    "Non-Academic Work/Geethanjali/Geethanjale Artist Revel Idea.md",
-    "Non-Academic Work/Geethanjali/Screenshot 2026-09-16 215636.png",
-    "Nomes/Therushis's Sudden Reply.md",
-    "Nomes/Pasted image 20260911071032.png",
     "Nomes/I fell love with the studies again.md",
     "Nomes/I m at my stall.md",
     "Nomes/I do feel why i do batch things.md",
@@ -263,21 +283,6 @@
     "Nomes/I felt Chaotic Again.md",
     "PeraBots/Workshop 1.md",
     "Nomes/After the after party; 7-8-2026 10 34 pm at hostal.md",
-    "MAT1023/Problem Sheet 1.md",
-    "MAT1023/Notes.md",
-    "PHY1203/Tute 02.md",
-    "PHY1203/Pasted image 20260911072236.png",
-    "conflict-files-obsidian-git.md",
-    "MAT1063/MAT1063_Quiz_Cheatsheet_Chapters_4_and_5.md",
-    "MAT1063/ch4_pages/page_30.png",
-    "MAT1063/ch4_pages/page_29.png",
-    "MAT1063/ch4_pages/page_28.png",
-    "MAT1063/ch4_pages/page_27.png",
-    "MAT1063/ch4_pages/page_26.png",
-    "MAT1063/ch4_pages/page_25.png",
-    "MAT1063/ch4_pages/page_24.png",
-    "MAT1063/STA1023_MAT1063_Tutorial_04_Solutions.md",
-    "I m at Stall.md",
     "Untitled.canvas"
   ]
 }

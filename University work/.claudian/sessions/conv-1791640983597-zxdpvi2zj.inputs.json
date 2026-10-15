@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1791640983597-zxdpvi2zj",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1791640983689-2lenzwy",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1791640983590-4dn2xx0",
+      "timestamp": 1791640983590,
+      "rawDisplayText": "@MAT1023/  Can You make a Full note from these note...\nI wanna study for end exam. make it organized",
+      "canonicalText": "@MAT1023/  Can You make a Full note from these note...\nI wanna study for end exam. make it organized",
+      "images": [],
+      "contentDigest": "c4cc61e588a77927664b152362ec60c6d0f8827b99cc8f3e53900f1e4c7b90a2"
+    }
+  ]
+}

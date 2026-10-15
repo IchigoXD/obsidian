@@ -1,0 +1,11 @@
+{
+  "id": "conv-1791641756507-00ws4k9gt",
+  "providerId": "pi",
+  "title": "Compile MAT1023 exam study notes",
+  "titleGenerationStatus": "success",
+  "createdAt": 1791641756514,
+  "lastActivityAt": 1791642676013,
+  "sessionId": null,
+  "selectedModel": "pi:antigravity/gemini-3.8-flash",
+  "currentNote": "PHY1203/PHY1203_Final_Exam_Study_Pack.md"
+}

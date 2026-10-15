@@ -258,16 +258,16 @@ $$P(|X - \mu| < k\sigma) \ge 1 - \frac{1}{k^2} \iff P(\mu - k\sigma < X < \mu + 
 
 ### 5.1 Master Comparison Table
 
-| Distribution | Physical Meaning / When to Use | PMF $P(X=x)$ | Support ($x$) | Mean $\mu$ | Variance $\sigma^2$ | MGF $M_X(t)$ |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Discrete Uniform** | $k$ equally likely outcomes | $\frac{1}{k}$ | $1, 2, \dots, k$ | $\frac{k+1}{2}$ | $\frac{k^2-1}{12}$ | — |
-| **Bernoulli** | 1 trial with success probability $\theta$ | $\theta^x (1-\theta)^{1-x}$ | $x \in \{0, 1\}$ | $\theta$ | $\theta(1-\theta)$ | $1 - \theta + \theta e^t$ |
-| **Binomial** $(n, \theta)$ | Number of successes in $n$ independent trials | $\binom{n}{x}\theta^x(1-\theta)^{n-x}$ | $0, 1, \dots, n$ | $n\theta$ | $n\theta(1-\theta)$ | $[1+\theta(e^t-1)]^n$ |
-| **Negative Binomial** | Trial number $x$ on which the $k$-th success occurs | $\binom{x-1}{k-1}\theta^k(1-\theta)^{x-k}$ | $k, k+1, k+2, \dots$ | $\frac{k}{\theta}$ | $\frac{k(1-\theta)}{\theta^2}$ | — |
-| **Geometric** $(\theta)$ | Trial number $x$ on which **1st** success occurs ($k=1$) | $\theta(1-\theta)^{x-1}$ | $1, 2, 3, \dots$ | $\frac{1}{\theta}$ | $\frac{1-\theta}{\theta^2}$ | $\frac{\theta e^t}{1-(1-\theta)e^t}$ |
-| **Hypergeometric** | Successes in sample $n$ **without replacement** from $N$ (contains $M$ defectives) | $\frac{\binom{M}{x}\binom{N-M}{n-x}}{\binom{N}{n}}$ | $\max(0, n-N+M) \le x \le \min(n, M)$ | $n\frac{M}{N}$ | $n\frac{M}{N}\left(1-\frac{M}{N}\right)\left(\frac{N-n}{N-1}\right)$ | — |
-| **Multinomial** | Generalization of Binomial to $k$ mutually exclusive outcomes | $\frac{n!}{x_1! \cdots x_k!} \theta_1^{x_1}\cdots\theta_k^{x_k}$ | $\sum x_i = n$ | $E[X_i] = n\theta_i$ | $\text{Var}(X_i) = n\theta_i(1-\theta_i)$ | — |
-| **Poisson** $(\lambda)$ | Count of rare events over fixed continuous interval / area | $\frac{\lambda^x e^{-\lambda}}{x!}$ | $0, 1, 2, \dots$ | $\lambda$ | $\lambda$ | $e^{\lambda(e^t-1)}$ |
+| Distribution               | Physical Meaning / When to Use                                                     | PMF $P(X=x)$                                                     | Support ($x$)                         | Mean $\mu$           | Variance $\sigma^2$                                                  | MGF $M_X(t)$                         |
+| :------------------------- | :--------------------------------------------------------------------------------- | :--------------------------------------------------------------- | :------------------------------------ | :------------------- | :------------------------------------------------------------------- | :----------------------------------- |
+| **Discrete Uniform**       | $k$ equally likely outcomes                                                        | $\frac{1}{k}$                                                    | $1, 2, \dots, k$                      | $\frac{k+1}{2}$      | $\frac{k^2-1}{12}$                                                   | —                                    |
+| **Bernoulli**              | 1 trial with success probability $\theta$                                          | $\theta^x (1-\theta)^{1-x}$                                      | $x \in \{0, 1\}$                      | $\theta$             | $\theta(1-\theta)$                                                   | $1 - \theta + \theta e^t$            |
+| **Binomial** $(n, \theta)$ | Number of successes in $n$ independent trials                                      | $\binom{n}{x}\theta^x(1-\theta)^{n-x}$                           | $0, 1, \dots, n$                      | $n\theta$            | $n\theta(1-\theta)$                                                  | $[1+\theta(e^t-1)]^n$                |
+| **Negative Binomial**      | Trial number $x$ on which the $k$-th success occurs                                | $\binom{x-1}{k-1}\theta^k(1-\theta)^{x-k}$                       | $k, k+1, k+2, \dots$                  | $\frac{k}{\theta}$   | $\frac{k(1-\theta)}{\theta^2}$                                       | —                                    |
+| **Geometric** $(\theta)$   | Trial number $x$ on which **1st** success occurs ($k=1$)                           | $\theta(1-\theta)^{x-1}$                                         | $1, 2, 3, \dots$                      | $\frac{1}{\theta}$   | $\frac{1-\theta}{\theta^2}$                                          | $\frac{\theta e^t}{1-(1-\theta)e^t}$ |
+| **Hypergeometric**         | Successes in sample $n$ **without replacement** from $N$ (contains $M$ defectives) | $\frac{\binom{M}{x}\binom{N-M}{n-x}}{\binom{N}{n}}$              | $\max(0, n-N+M) \le x \le \min(n, M)$ | $n\frac{M}{N}$       | $n\frac{M}{N}\left(1-\frac{M}{N}\right)\left(\frac{N-n}{N-1}\right)$ | —                                    |
+| **Multinomial**            | Generalization of Binomial to $k$ mutually exclusive outcomes                      | $\frac{n!}{x_1! \cdots x_k!} \theta_1^{x_1}\cdots\theta_k^{x_k}$ | $\sum x_i = n$                        | $E[X_i] = n\theta_i$ | $\text{Var}(X_i) = n\theta_i(1-\theta_i)$                            | —                                    |
+| **Poisson** $(\lambda)$    | Count of rare events over fixed continuous interval / area                         | $\frac{\lambda^x e^{-\lambda}}{x!}$                              | $0, 1, 2, \dots$                      | $\lambda$            | $\lambda$                                                            | $e^{\lambda(e^t-1)}$                 |
 
 *(Note: In exam formulas, the course notation uses $\theta$ or $p$ interchangeably for success probability).*
 
@@ -345,11 +345,11 @@ Special case of Gamma where $\alpha = 1$ and $\beta = \theta$ (or rate parameter
 
 ### 6.5 Distribution Approximations & Continuity Correction
 
-| Approximation | Conditions | Parameters to Use | Continuity Correction Rule |
-| :--- | :--- | :--- | :--- |
-| **Poisson approx to Binomial** | $n \ge 20$ and $\theta \le 0.05$ (or $n \ge 100, n\theta < 10$) | $\lambda = n\theta$ | Discrete to Discrete (no correction needed) |
-| **Normal approx to Binomial** | $n\theta > 5$ and $n(1-\theta) > 5$ | $\mu = n\theta$, $\sigma = \sqrt{n\theta(1-\theta)}$ | $P(X \le k) \approx P(Y \le k + 0.5)$<br>$P(X \ge k) \approx P(Y \ge k - 0.5)$<br>$P(X = k) \approx P(k - 0.5 \le Y \le k + 0.5)$ |
-| **Normal approx to Poisson** | $\lambda > 20$ (or large $\lambda \ge 15$) | $\mu = \lambda$, $\sigma = \sqrt{\lambda}$ | Same $\pm 0.5$ continuity correction |
+| Approximation                  | Conditions                                                      | Parameters to Use                                    | Continuity Correction Rule                                                                                                        |
+| :----------------------------- | :-------------------------------------------------------------- | :--------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------- |
+| **Poisson approx to Binomial** | $n \ge 20$ and $\theta \le 0.05$ (or $n \ge 100, n\theta < 10$) | $\lambda = n\theta$                                  | Discrete to Discrete (no correction needed)                                                                                       |
+| **Normal approx to Binomial**  | $n\theta > 5$ and $n(1-\theta) > 5$                             | $\mu = n\theta$, $\sigma = \sqrt{n\theta(1-\theta)}$ | $P(X \le k) \approx P(Y \le k + 0.5)$<br>$P(X \ge k) \approx P(Y \ge k - 0.5)$<br>$P(X = k) \approx P(k - 0.5 \le Y \le k + 0.5)$ |
+| **Normal approx to Poisson**   | $\lambda > 20$ (or large $\lambda \ge 15$)                      | $\mu = \lambda$, $\sigma = \sqrt{\lambda}$           | Same $\pm 0.5$ continuity correction                                                                                              |
 
 ---
 

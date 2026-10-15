@@ -3,7 +3,7 @@
   "permissionMode": "yolo",
   "model": "pi:antigravity/gemini-3.8-flash",
   "thinkingBudget": "off",
-  "effortLevel": "low",
+  "effortLevel": "high",
   "serviceTier": "default",
   "enableAutoTitleGeneration": true,
   "titleGenerationLocale": "",
@@ -34,7 +34,10 @@
       "enableChrome": false,
       "enableBangBash": false,
       "promptSuggestions": false,
+      "agentProgressSummaries": false,
+      "visibleModels": null,
       "customModels": "",
+      "discoveredModels": [],
       "defaultModel": "opus",
       "lastModel": "haiku",
       "modelEnvironmentType": "",
@@ -73,9 +76,11 @@
       "visibleModels": null
     },
     "opencode": {
+      "availableModes": [],
       "catalogTimestamp": 0,
       "cliPath": "",
       "cliPathsByHost": {},
+      "discoveredModels": [],
       "enabled": false,
       "environmentHash": "",
       "environmentVariables": "OPENCODE_ENABLE_EXA=1",
@@ -239,7 +244,7 @@
       "environmentVariables": "",
       "modelAliases": {},
       "preferredThinkingByModel": {
-        "pi:antigravity/gemini-3.8-flash": "low"
+        "pi:antigravity/gemini-3.8-flash": "high"
       },
       "toolMode": "all",
       "visibleModels": [
@@ -411,18 +416,20 @@
       ]
     }
   },
+  "providerAdditionalArguments": {},
   "settingsProvider": "pi",
   "lastSelectedChatModel": {
     "providerId": "pi",
     "model": "pi:antigravity/gemini-3.8-flash"
   },
+  "favoriteModels": [],
   "savedProviderModel": {
     "claude": "haiku",
     "pi": "pi:antigravity/gemini-3.8-flash"
   },
   "savedProviderEffort": {
     "claude": "high",
-    "pi": "low"
+    "pi": "high"
   },
   "savedProviderServiceTier": {},
   "savedProviderThinkingBudget": {},
@@ -433,17 +440,14 @@
   "pendingProviderSessionInvalidations": {},
   "lastCustomModel": "",
   "maxWarmAgentProcesses": 5,
+  "providerDiagnosticLogsEnabled": false,
+  "providerDiagnosticLogDirectory": "",
   "enableAutoScroll": true,
   "showTabTitlesByDefault": false,
   "deferMathRenderingDuringStreaming": true,
   "expandFileEditsByDefault": false,
   "chatViewPlacement": "right-sidebar",
-  "enableDualPane": true,
-  "enableFilePane": true,
-  "dualPaneSide": "right",
-  "sessionManagerOrganization": "list",
-  "sessionManagerSort": "last-updated",
-  "pinnedLinkedNotePaths": [],
+  "sessionAutoArchiveAfter": "off",
   "hiddenProviderCommands": {},
   "restoreTabsOnStartup": true,
   "collabEnabled": false,

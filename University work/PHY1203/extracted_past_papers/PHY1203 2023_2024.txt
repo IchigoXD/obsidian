@@ -1,0 +1,317 @@
+=== PHY1203 2023_2024.pdf ===
+
+--- PAGE 1 ---
+UNIVERSITY OF PERADENIYA
+DEPARTMENT OF PHYSICS
+END SEMESTER EXAMINATION
+SEMESTER 11 - 2023/2024
+PHY1203/PH 102 - General Physics 11
+Time allowed: Three hours
+Answer FIVE questions selecting TWO from Section A, TWO from Section B
+and ONE from Section C.
+(Use of calculators is allowed)
+Symbols have their usual meanings unless specified otherwise
+Electron charge (e)
+1.60 x 10-19 c
+Mass of electron (me) = 9.11 x 10-31 kg
+Mass of proton (mp)
+- 1.67 x 10-27 kg
+Planck's constant (h)
+Speed of light (c)
+Wien's constant
+Avogadro number (NA) = 6.02 x 1023 mol-I
+Permittivity of free space (80) = 8.85 x 10-12 F m-l
+Permeability of free space (L) = 47t x 10-7 H m-l
+Stefan-Boltzmann constant (o) = 5.67 x 10-8 W m-2 K-4
+= 6.63 x 10-34 J s
+= 3.00 x 108 ms I
+=2.89 x 10-3 mK
+01.
+(a)
+Section-A
+An electric dipole consists of two-point charges of equal magnitude and opposite
+polarity separated by a small distance, as shown in Figure 1.
+—q
+-O
+2a
+Figure 1
+(i) 
+Define the dipole moment of a dipole.
+(ii) 
+Write an expression for the dipole moment vector F. Define all the symbols
+used and state the direction of F.
+(iii) A dipole is placed in a uniform external
+electric field E, making an angle 0 with
+the field as shown in Figure 2.
+l. Derive an expression for the
+torque (T) acting on the
+2a
+dipole.
+2. Show that i = F x i.
+—q
+Figure 2
+Page 1 of 6
+
+
+--- PAGE 2 ---
+(b)
+02.
+(a)
+When a dipole in an electric field changes its orientation, the field exerts a torque that
+performs work on it, resulting in a change in its potential energy. For an electric dipole
+in an external electric field E, the potential energy is given by U = —(ö • i).
+Consider an electric dipole consisting of charges ±1.6 x 10-19 C separated by 0.125
+nm, placed in a uniform electric field of 5 x 105 N C-l, as shown in the Figure 3.
+'"350
+Figure 3
+(i)
+Determine the net force exerted by the field on the dipole.
+(ii)
+Find the magnitude and direction of the electric dipole moment.
+(iii)
+Determine the magnitude and direction of the torque acting on the dipole.
+(iv)
+Estimate the potential energy ofthe dipole in the position shown.
+State Gass's Theorem.
+(ii)
+A long straight cylindrical conductor with radius a is placed horizontally and has
+a linear charge density of +1.
+(l) 
+Define linear charge density.
+(2) 
+Obtain an expression for the electric field intensity E at a point having a
+distance r(r 2 a) from the cenfral axis in terms A, r and €0. Where Eo is
+the permittivity of vacuum.
+(3) 
+Draw a graph representing the variation of electric field intensity E with
+respect to the distance (r) from the ass of the conductor.
+An elecÜon is placed at a point r distance from the axis of the charged conductor
+described in question (ii) above. Consider the charge and mass of the electron are e
+and m respectively.
+1
+Figure 4.
+Page 2 of6
+
+
+--- PAGE 3 ---
+If the electron moves in a circular path with a radius r centered on the axis of the
+conductor as shown in Figure 4, find the following (neglect the effects of gravity):
+03.
+(a)
+(b)
+(i) 
+(ii) 
+(iii) 
+(iv) 
+(i) 
+(ii) 
+(iii) 
+(i) 
+(ii) 
+Copy Figure 4 onto your answer script, indicate the force acting on the electron,
+and obtain the magnitude of the force in terms of A, r, Eo and e
+Obtain an expression for the angular velocity of the election in terms of A, r, Eo,
+e and m.
+Write the expression for the tangential speed ofelectron in term of in terms of 1,
+r, Eo, e and m.
+Evaluate the period of the electron. Given that the linear charge density in SI
+units A = 6 x 10-15 and distance from the axis r = 5 gm.
+State Ampere's circuital law and write it in integral form, clearly defining all
+symbols used.
+Using Ampere's law, derive an expression for the magnetic field due to a long
+straight conductor carrying a steady current I.
+A long straight wire carries a current of 5.0 A. Calculate the magnitude of the
+magnetic field at a point located 2.0 cm from the wire.
+An infinitely long straight cylindrical conductor of radius a carries a steady
+current I along its axis. The current is distributed over the cross-section so that
+the current density J may be uniform or vary with the radial distance r from the
+axis.
+(l) 
+Assuming uniform current density J throughout the conductor, derive
+expressions for the magnetic field B(r) inside (r < a) and outside (r >
+a) the conductor using Ampere's law.
+(2) 
+Sketch the variation of B(r) with r.
+Now suppose the current density varies with radius as J(r) = Jo(l — —
+r) where
+Jo is the maximum current density at the center of the conductor.
+(l) 
+Find an expression for the total current I in the conductor.
+(2) 
+Using Ampere's law, derive expressions for the magnetic field B(r) inside
+(r < a) and outside (r > a) the conductor.
+(3) Show that your results reduce to those in part (b)(i)(l) when J(r) is
+constant.
+(iii) Discuss how a non-uniform current distribution affects the magnetic field inside
+the conductor compared to the uniform case.
+Page 3 of6
+
+
+--- PAGE 4 ---
+Section-B
+04. (a)
+(b)
+(c)
+(d)
+(e)
+(f)
+(g)
+05. (a)
+(b)
+06. (a)
+Using the Stefan—Boltzmann law of blackbody radiation, write down an expression
+for the emissive power (P) of a blackbody at temperature T.
+The total emissive power of a blackbody is 
+W m-2. Find the temperature of
+the body.
+Write down Wien's displacement law as an equation and identify each symbol.
+Sketch the blackbody radiation curves for four different temperatures of the
+blackbody.
+If the surface temperature of a star is 10,000 K, calculate the wavelength
+corresponding to the peak intensity of the blackbody radiation.
+Identify the region of electromagnetic spectrum to which the above wavelength
+belongs.
+Determine the energy of a photon (in eV) corresponding to the above peak
+wavelength.
+(i) 
+Write down Einstein's photoelectric equation and identifr each symbol.
+(ii) 
+Light of wavelength 400 nm falls on a metallic surface and ejects electrons. If
+the work function of the metal is 2.0 ev calculate the followings.
+(1) 
+The threshold wavelength.
+(2) 
+The maximum kinetic energy of the emitted electrons.
+(3) 
+The stopping potential.
+With the aid of a clearly labelled diagram of an X-ray tube, explain how X-rays are
+produced.
+(i)
+Sketch the X-ray spectrum and giving reasons, explain the shape of the
+spectrum.
+(ii)
+Derive an expression for the minimum wavelength (Amin) of X-rays in terms of
+applied tube potential difference V. Clearly identify the other symbols you use.
+(iii)
+An X-ray tube operates at 50 kV. Calculate the minimum wavelength (in nm)
+of X-rays produced.
+(iv)
+Explain how X-rays are used for crystal structure analysis.
+(i)
+Write down the radioactive decay law as an equation in terms of activity A.
+(ii)
+Obtain the relationship between the decay constant (1) and half-life (TIP) of a
+radioactive substance.
+(iii)
+With the aid of nuclear reactions briefly explain the formation of carbon-14 in
+the atmosphere and how it is used to determine the age of an archaeological
+sample.
+(iv) The activity of 1 g of carbon from an archaeological sample is 0.05 Bq, while
+the activity of I g ofcarbon from a present-day carbon sample is 0.12 Bq. Given
+that the half-life of carbon-14 is 5730 years, calculate the age of the
+archaeological sample.
+Page 4 of6
+
+
+--- PAGE 5 ---
+(b)
+In a nuclear reactor the following nuclear reaction is taking place.
++ n 
+141K 
++ 
++ bn + Q
+Here a and b are integers. The atomic masses of the elements and the neutron are
+given bellow.
+2$U = 235.043 93 u
+141x =140.914 41 u
+Also 1 u = 931.5 MeV/c2 .
+n = 1.008 67 u
+= 91.926 15 u
+07.
+(a)
+(b)
+(i)
+(ii)
+(iii)
+(iv)
+(i)
+(ii)
+(i)
+(ii)
+(iii) 
+What are the values of a and b?
+Calculate the mean binding energy of 235
+921J.
+Also calculate the value of Q factor.
+If 1.00 kg of uranium-235 is consumed per year in a nuclear reactor, calculate
+the power output of the reactor.
+Section-C
+Name three primary bond types and three secondary bond types.
+Briefly explain the difference between the primary bonds and the secondary
+bonds
+State three physical properties of bulk materials that can be understood using
+the potential energy curve of a diatomic molecule.
+Explain how you would utilize the features of the potential energy curve to
+understand each of the physical properties which you have stated above.
+Potential energy as a function of internuclear distance for three diatomic
+molecules, X2,Y2, and Z2 is shown in the figure below. Which of the following
+option correctly identifies the diatomic molecules, X2,Y2, and Z2? Give reason
+for your selection.
+02
+02
+c
+02
+02
+48
+38
+Internuclear 
+o
+Distance (A)
+—E
+—3E
+Page 5 of 6
+
+
+--- PAGE 6 ---
+(c) The Lennard—Jones potential for two Nickel (Ni) atoms in a lattice can be written as
+follows:
+where c and E are constants and r is the separation between the atoms.
+(i) 
+Identifr the attractive and the repulsive potentials and comment on their origin.
+(ii) 
+Show that c can be expressed as c
+ro, where ro is the separation of the
+atoms at the equilibrium.
+(iii) For Ni, 
+has a value of 1.5808 Å. Find the equilibrium separation of the Ni
+atoms in the lattice.
+(iv) Derive an expression for the effective spring constant, k of Ni atoms in the
+lattice.
+08.
+Assume that the bond length of 35C12 molecule is 1.98 Å and the atomic mass of the 35Cl
+isotope is 34.968853 u [1 u = 1.66 x 10 -27 kg].
+(a)
+(i)
+(ii)
+(iii)
+(b)
+(i)
+(ii)
+Calculate the energy of the first excited rotational state (J = 1) and the second
+excited rotational state (J = 2) of 35C12 molecule
+Find the wavelength of the radiation emitted in the transition from (J = 2) to
+Consider the diatomic molecule of 37Cl isotope (37C12 molecule) having the same
+bond length as 35C12. Qualitatively compare the radiation emitted in the transition
+of 37C12 from (J = 2) to (J = 1) with that of 35C12, calculated in (ii).
+Write down an expression for the energy of the nth vibrational states (or level)
+of a diatomic molecule and obtain an expression for the energy difference
+between two consecutive energy states. Define all symbols used.
+The effective spring constant of 35012 molecule is 323 N m-l . Assuming that the
+vibrational motion of this molecule obeys the classical simple harmonic motion,
+find the amplitude of oscillation when the molecule is in its first excited
+vibrational state (v = 1).
+(c)
+The effective spring constant of (12) is 169 N/m. Molecular weight of 12 is 126.905u.
+When compared to 35012 molecule, which molecule will absorb higher energy photons
+when transit between consecutive vibrational energy levels? Justify your answer.
+Page 6 of 6
