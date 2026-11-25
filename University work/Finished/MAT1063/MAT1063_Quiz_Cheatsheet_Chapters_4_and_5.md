@@ -1,11 +1,11 @@
 # MAT1063 - Quiz Cheatsheet & 6-Hour Study Plan
 **Chapters Covered**: Chapter 4 (Mathematical Expectation, Moments, MGFs, Chebyshev's Inequality) & Chapter 5 (Special Discrete Probability Distributions)
 **Source Materials**:
-- [[MAT1063/Chapte 4 - Notes.pdf|Chapter 4 - Notes]]
-- [[MAT1063/Chapte 4 - Chebyshevs Inequality.pdf|Chapter 4 - Chebyshev's Inequality]]
-- [[MAT1063/Chapter 5-Part 1 and 2.pdf|Chapter 5 - Part 1 & 2]]
-- [[MAT1063/Chapter 5 Notes-Part 3.pdf|Chapter 5 - Part 3]]
-- [[MAT1063/Chapter 5 Notes-Part 4.pdf|Chapter 5 - Part 4]]
+- [[Chapte 4 - Notes.pdf|Chapter 4 - Notes]]
+- [[Chapte 4 - Chebyshevs Inequality.pdf|Chapter 4 - Chebyshev's Inequality]]
+- [[Chapter 5-Part 1 and 2.pdf|Chapter 5 - Part 1 & 2]]
+- [[Chapter 5 Notes-Part 3.pdf|Chapter 5 - Part 3]]
+- [[Chapter 5 Notes-Part 4.pdf|Chapter 5 - Part 4]]
 
 ---
 

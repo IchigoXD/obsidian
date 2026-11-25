@@ -2,7 +2,7 @@
 
 **Course:** STA1023 / MAT1063 — Probability and Statistics  
 **Institution:** University of Peradeniya — Department of Statistics and Computer Science  
-**Reference Document:** [[MAT1063/STA1023__MAT1063_Tutorial 04.pdf|STA1023 / MAT1063 Tutorial 04]]  
+**Reference Document:** [[STA1023__MAT1063_Tutorial 04.pdf|STA1023 / MAT1063 Tutorial 04]]  
 
 ---
 

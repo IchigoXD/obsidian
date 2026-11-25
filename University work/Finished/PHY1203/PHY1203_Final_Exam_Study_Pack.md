@@ -1377,11 +1377,11 @@ $^{35}\text{Cl}_2$ absorbs significantly **higher energy photons** (approximatel
 Use this checklist in your final 48 hours before the exam to test your instant recall. If you can answer every prompt without looking at notes, you are fully prepared for a First-Class result.
 
 ### Module A: Electromagnetism
-- [ ] Can you define the electric dipole moment $\vec{p}$ and state its exact vector direction?
-- [ ] Can you derive the torque $\vec{\tau} = \vec{p} \times \vec{E}$ and potential energy $U = -\vec{p}\cdot\vec{E}$ for an electric dipole in a uniform electric field?
-- [ ] Can you state Gauss's Theorem in both words and integral form, defining all symbols?
-- [ ] Can you derive the electric field $E(r)$ for a long straight wire using a cylindrical Gaussian surface?
-- [ ] Can you sketch and explain the $E(r)$ vs $r$ graphs for a conducting cylinder vs a non-conducting cylinder with uniform volume charge density $\rho$?
+- [x] Can you define the electric dipole moment $\vec{p}$ and state its exact vector direction? ✅ 2026-10-17
+- [x] Can you derive the torque $\vec{\tau} = \vec{p} \times \vec{E}$ and potential energy $U = -\vec{p}\cdot\vec{E}$ for an electric dipole in a uniform electric field? ✅ 2026-10-17
+- [x] Can you state Gauss's Theorem in both words and integral form, defining all symbols? ✅ 2026-10-17
+- [x] Can you derive the electric field $E(r)$ for a long straight wire using a cylindrical Gaussian surface? ✅ 2026-10-17
+- [x] Can you sketch and explain the $E(r)$ vs $r$ graphs for a conducting cylinder vs a non-conducting cylinder with uniform volume charge density $\rho$? ✅ 2026-10-17
 - [ ] Can you explain why the orbital speed $v$ of an electron orbiting a line charge is independent of orbital radius $r$, and derive its period $T$?
 - [ ] Can you explain why charge concentrates at sharp points on an irregular conductor, and describe the mechanism of Corona Discharge?
 - [ ] Can you list four industrial/scientific applications of electrostatic point discharge?

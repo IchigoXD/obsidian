@@ -1,3 +1,5 @@
 {
-  "cssTheme": ""
+  "cssTheme": "",
+  "textFontFamily": "Times New Roman,UN-Derana",
+  "showRibbon": true
 }

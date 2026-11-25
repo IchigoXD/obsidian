@@ -4,49 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "472af2e66b96088d",
+        "id": "ab5013ae784771d9",
         "type": "tabs",
         "children": [
           {
-            "id": "a0ecdba62dae8b02",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          }
-        ]
-      },
-      {
-        "id": "b0b6fe7e501d01e9",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "c96fd7af694791ca",
+            "id": "ec2839ea12d9d8d6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PHY1203/PHY1203_Final_Exam_Study_Pack.md",
-                "mode": "preview",
+                "file": "It s 1 pm.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PHY1203_Final_Exam_Study_Pack"
-            }
-          },
-          {
-            "id": "993934da5f7a67cf",
-            "type": "leaf",
-            "state": {
-              "type": "surfing-view",
-              "state": {
-                "url": "https://chatgpt.com/"
-              },
-              "icon": "lucide-file",
-              "title": "ChatGPT"
+              "title": "It s 1 pm"
             }
           }
         ]
@@ -235,54 +207,54 @@
       "oh-my-claudian:Open Oh My Claudian": false
     }
   },
-  "active": "78178c3731ae6ebb",
+  "active": "ec2839ea12d9d8d6",
   "lastOpenFiles": [
-    "PHY1203/PHY1203_Final_Exam_Study_Pack.md",
-    "surfing-bookmarks/ChatGPT 1.md",
-    "surfing-bookmarks/ChatGPT.md",
-    "surfing-bookmarks",
-    "MAT1063/End Semester Examiation_2024.pdf",
-    "MAT1063/MAT1063_End_Exam_Study_Guide.md",
-    "PHY1203/generate_study_pack.py",
-    "PHY1203/magpp_sample_p13.jpg",
-    "PHY1203/magpp_sample_p10.jpg",
-    "PHY1203/magpp_sample_p7.jpg",
-    "PHY1203/magpp_sample_p4.jpg",
-    "PHY1203/magpp_sample_p1.jpg",
-    "PHY1203/mol_sample_p21.jpg",
-    "PHY1203/mol_sample_p16.jpg",
-    "PHY1203/mol_sample_p11.jpg",
-    "PHY1203/mol_sample_p6.jpg",
-    "PHY1203/mol_p5.jpg",
-    "PHY1203/extracted_past_papers/PHY1203 2023_2024.txt",
-    "PHY1203/extracted_past_papers/PHY 1203 2022-2023.txt",
-    "PHY1203/extracted_past_papers/PH 102 2914-2015.txt",
-    "PHY1203/extracted_past_papers/PH 102 2019-2020.txt",
-    "PHY1203/extracted_past_papers/PH 102 2018-2019.txt",
-    "PHY1203/extracted_past_papers/PH 102 2017-2018.txt",
-    "PHY1203/extracted_past_papers/PH 102 2015-2016.txt",
-    "Nomes/Therushis's Sudden Reply.md",
-    "Nomes/At Smart Room.md",
-    "MAT1063/Things to Memorize.md",
-    "MAT1063/STA1023_MAT1063_Tutorial_04_Solutions.md",
-    "MAT1023/Notes.md",
-    "MAT1023/Problem Sheet 1.md",
-    "Nomes/At the common room.md",
-    "Non-Academic Work/Geethanjali/Geethanjale Artist Revel Idea.md",
-    "Nomes/Dile Birthday Plan.md",
-    "Nomes/Feel Lil Sad,.md",
-    "PHY1921/PHY1921 Practical Short Notes.md",
+    "Girl A and Girl B.md",
+    "Untitled 1.md",
+    "Untitled 2.md",
+    "Nomes/සූරිය මල.md",
+    "Non-Academic Work/Rotaract",
+    "MAT1053/MAT1053_Final_Exam_Study_Pack.md",
     "PHY1921/Things to Memorize.md",
+    "Nomes/Therushis's Sudden Reply.md",
+    "Nomes/Feel Lil Sad,.md",
     "Nomes/Fight Club.md",
-    "PHY1921/10 - Capacitor Charging & Discharging.pdf.md",
-    "PHY1921/Error Theory.md",
+    "Nomes/Meet With Dile.md",
+    "Nomes/Pasted image 20260911071032.png",
+    "Nomes/Dile Birthday Plan.md",
     "Nomes/I fell love with the studies again.md",
     "Nomes/I m at my stall.md",
     "Nomes/I do feel why i do batch things.md",
-    "Nomes/Before the quizz.md",
-    "Nomes/I felt Chaotic Again.md",
-    "PeraBots/Workshop 1.md",
     "Nomes/After the after party; 7-8-2026 10 34 pm at hostal.md",
+    "Nomes/In the common Room.md",
+    "Nomes/Before the quizz.md",
+    "Nomes/At the common room.md",
+    "Nomes/At Smart Room.md",
+    "Nomes/Academic Prompt.md",
+    "Nomes/At Negmobo.md",
+    "MAT1053/23_24 end.pdf",
+    "It s 1 pm.md",
+    "MAT1053/22_23 end.pdf",
+    "MAT1053/21_22 end.pdf",
+    "MAT1053/19_20 end.pdf",
+    "MAT1053/exam_23_24_p3.png",
+    "MAT1053/exam_23_24_p2.png",
+    "MAT1053/exam_23_24_p1.png",
+    "MAT1053/exam_22_23_p3.png",
+    "MAT1053/exam_22_23_p2.png",
+    "MAT1053/exam_22_23_p1.png",
+    "MAT1053/exam_21_22_p3.png",
+    "MAT1053/exam_21_22_p2.png",
+    "MAT1053/exam_21_22_p1.png",
+    "MAT1053/extracted_22_23_end.pdf.txt",
+    "MAT1053/extracted_Classical_Mechanics_I____Tutorial_IV.pdf.txt",
+    "MAT1053/extracted_Classical_Mechanics_I____Tutorial_3.pdf.txt",
+    "MAT1053/extracted_MAT_1053__TUTORIAL_2.pdf.txt",
+    "MAT1053/extracted_MAT_1053_TUTORIAL_1.pdf.txt",
+    "Equations.md",
+    "Finished/PHY1203/PHY1203_Final_Exam_Study_Pack.md",
+    "Finished/MAT1023/Notes.md",
+    "surfing-bookmarks/ChatGPT 1.md",
     "Untitled.canvas"
   ]
 }
